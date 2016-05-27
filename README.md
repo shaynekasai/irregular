@@ -1,5 +1,7 @@
 # Irregular
 
+[![Build Status](https://travis-ci.org/shaynekasai/irregular.svg?branch=master)](https://travis-ci.org/shaynekasai/irregular)
+
 This is a Node.js module that allows you to search for irregular verb tenses.
 
 # Usage
