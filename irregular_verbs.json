@@ -1,0 +1,4328 @@
+[
+    {
+        "BF": "abide",
+        "PS": "abode/abided",
+        "PP": "abode/abided/abidden",
+        "TPS": "abides",
+        "PPG": "abiding"
+    },
+    {
+        "BF": "aby/abey",
+        "PS": "abought",
+        "PP": "abought",
+        "TPS": "abys/abeys",
+        "PPG": "abying/abeying"
+    },
+    {
+        "BF": "alight",
+        "PS": "alit/alighted",
+        "PP": "alit/alighted",
+        "TPS": "alights",
+        "PPG": "alighting"
+    },
+    {
+        "BF": "arise",
+        "PS": "arose",
+        "PP": "arisen",
+        "TPS": "arises",
+        "PPG": "arising"
+    },
+    {
+        "BF": "awake",
+        "PS": "awoke",
+        "PP": "awoken",
+        "TPS": "awakes",
+        "PPG": "awaking"
+    },
+    {
+        "BF": "backbite",
+        "PS": "backbit",
+        "PP": "backbitten",
+        "TPS": "backbites",
+        "PPG": "backbiting"
+    },
+    {
+        "BF": "backfit",
+        "PS": "backfit",
+        "PP": "backfit",
+        "TPS": "backfits",
+        "PPG": "backfitting"
+    },
+    {
+        "BF": "backlight",
+        "PS": "backlit",
+        "PP": "backlit",
+        "TPS": "backlights",
+        "PPG": "backlighting"
+    },
+    {
+        "BF": "backslide",
+        "PS": "backslid",
+        "PP": "backslid/backslidden",
+        "TPS": "backslides",
+        "PPG": "backsliding"
+    },
+    {
+        "BF": "be",
+        "PS": "was/were",
+        "PP": "been",
+        "TPS": "is",
+        "PPG": "being"
+    },
+    {
+        "BF": "bear",
+        "PS": "bore",
+        "PP": "born/borne",
+        "TPS": "bears",
+        "PPG": "bearing"
+    },
+    {
+        "BF": "beat",
+        "PS": "beat",
+        "PP": "beaten",
+        "TPS": "beats",
+        "PPG": "beating"
+    },
+    {
+        "BF": "become",
+        "PS": "became",
+        "PP": "become",
+        "TPS": "becomes",
+        "PPG": "becoming"
+    },
+    {
+        "BF": "bedight",
+        "PS": "bedight/bedighted",
+        "PP": "bedight/bedighted",
+        "TPS": "bedights",
+        "PPG": "bedighting"
+    },
+    {
+        "BF": "befall",
+        "PS": "befell",
+        "PP": "befallen",
+        "TPS": "befalls",
+        "PPG": "befalling"
+    },
+    {
+        "BF": "beget",
+        "PS": "begot/begat",
+        "PP": "begotten",
+        "TPS": "begets",
+        "PPG": "begetting"
+    },
+    {
+        "BF": "begin",
+        "PS": "began",
+        "PP": "begun",
+        "TPS": "begins",
+        "PPG": "beginning"
+    },
+    {
+        "BF": "begird",
+        "PS": "begirt/begirded",
+        "PP": "begirt",
+        "TPS": "begirds",
+        "PPG": "begirding"
+    },
+    {
+        "BF": "behight",
+        "PS": "behight",
+        "PP": "behight/behoten",
+        "TPS": "behights",
+        "PPG": "behighting"
+    },
+    {
+        "BF": "behold",
+        "PS": "beheld",
+        "PP": "beheld",
+        "TPS": "beholds",
+        "PPG": "beholding"
+    },
+    {
+        "BF": "belay",
+        "PS": "belaid/belayed",
+        "PP": "belaid/belayed",
+        "TPS": "belays",
+        "PPG": "belaying"
+    },
+    {
+        "BF": "bend",
+        "PS": "bent",
+        "PP": "bent",
+        "TPS": "bends",
+        "PPG": "bending"
+    },
+    {
+        "BF": "bereave",
+        "PS": "bereft",
+        "PP": "bereft/bereaved",
+        "TPS": "bereaves",
+        "PPG": "bereaving"
+    },
+    {
+        "BF": "beseech",
+        "PS": "besought/beseeched",
+        "PP": "besought/beseeched",
+        "TPS": "beseeches",
+        "PPG": "beseeching"
+    },
+    {
+        "BF": "beset",
+        "PS": "beset",
+        "PP": "beset",
+        "TPS": "besets",
+        "PPG": "besetting"
+    },
+    {
+        "BF": "bespeak",
+        "PS": "bespoke",
+        "PP": "bespoken",
+        "TPS": "bespeaks",
+        "PPG": "bespeaking"
+    },
+    {
+        "BF": "bestrew",
+        "PS": "bestrewed",
+        "PP": "bestrewed/bestrewn",
+        "TPS": "bestrews",
+        "PPG": "bestrewing"
+    },
+    {
+        "BF": "bestride",
+        "PS": "bestrode",
+        "PP": "bestridden",
+        "TPS": "bestrides",
+        "PPG": "bestriding"
+    },
+    {
+        "BF": "bet",
+        "PS": "bet",
+        "PP": "bet",
+        "TPS": "bets",
+        "PPG": "betting"
+    },
+    {
+        "BF": "betake",
+        "PS": "betook",
+        "PP": "betaken",
+        "TPS": "betakes",
+        "PPG": "betaking"
+    },
+    {
+        "BF": "bethink",
+        "PS": "bethought",
+        "PP": "bethought",
+        "TPS": "bethinks",
+        "PPG": "bethinking"
+    },
+    {
+        "BF": "beweep",
+        "PS": "bewept",
+        "PP": "bewept",
+        "TPS": "beweeps",
+        "PPG": "beweeping"
+    },
+    {
+        "BF": "bid",
+        "PS": "bid",
+        "PP": "bid",
+        "TPS": "bids",
+        "PPG": "bidding"
+    },
+    {
+        "BF": "bid",
+        "PS": "bade",
+        "PP": "bidden",
+        "TPS": "bids",
+        "PPG": "bidding"
+    },
+    {
+        "BF": "bide",
+        "PS": "bided/bode",
+        "PP": "bided",
+        "TPS": "bides",
+        "PPG": "biding"
+    },
+    {
+        "BF": "bind",
+        "PS": "bound",
+        "PP": "bound",
+        "TPS": "binds",
+        "PPG": "binding"
+    },
+    {
+        "BF": "bite",
+        "PS": "bit",
+        "PP": "bitten",
+        "TPS": "bites",
+        "PPG": "biting"
+    },
+    {
+        "BF": "blaw",
+        "PS": "blawed",
+        "PP": "blawn",
+        "TPS": "blaws",
+        "PPG": "blawing"
+    },
+    {
+        "BF": "bleed",
+        "PS": "bled",
+        "PP": "bled",
+        "TPS": "bleeds",
+        "PPG": "bleeding"
+    },
+    {
+        "BF": "blend",
+        "PS": "blended/blent",
+        "PP": "blended/blent",
+        "TPS": "blends",
+        "PPG": "blending"
+    },
+    {
+        "BF": "bless",
+        "PS": "blessed/blest",
+        "PP": "blessed/blest",
+        "TPS": "blesses",
+        "PPG": "blessing"
+    },
+    {
+        "BF": "blow",
+        "PS": "blew",
+        "PP": "blown",
+        "TPS": "blows",
+        "PPG": "blowing"
+    },
+    {
+        "BF": "bottle-feed",
+        "PS": "bottle-fed",
+        "PP": "bottle-fed",
+        "TPS": "bottle-feeds",
+        "PPG": "bottle-feeding"
+    },
+    {
+        "BF": "bowstring",
+        "PS": "bowstrung/bowstringed",
+        "PP": "bowstrung",
+        "TPS": "bowstrings",
+        "PPG": "bowstringing"
+    },
+    {
+        "BF": "break",
+        "PS": "broke",
+        "PP": "broken",
+        "TPS": "breaks",
+        "PPG": "breaking"
+    },
+    {
+        "BF": "breast-feed",
+        "PS": "breast-fed",
+        "PP": "breast-fed",
+        "TPS": "breast-feeds",
+        "PPG": "breast-feeding"
+    },
+    {
+        "BF": "breed",
+        "PS": "bred",
+        "PP": "bred",
+        "TPS": "breeds",
+        "PPG": "breeding"
+    },
+    {
+        "BF": "bring",
+        "PS": "brought",
+        "PP": "brought",
+        "TPS": "brings",
+        "PPG": "bringing"
+    },
+    {
+        "BF": "broadcast",
+        "PS": "broadcast/broadcasted",
+        "PP": "broadcast/broadcasted",
+        "TPS": "broadcasts",
+        "PPG": "broadcasting"
+    },
+    {
+        "BF": "browbeat",
+        "PS": "browbeat",
+        "PP": "browbeat/browbeaten",
+        "TPS": "browbeats",
+        "PPG": "browbeating"
+    },
+    {
+        "BF": "build",
+        "PS": "built",
+        "PP": "built",
+        "TPS": "builds",
+        "PPG": "building"
+    },
+    {
+        "BF": "burn",
+        "PS": "burnt/burned",
+        "PP": "burnt/burned",
+        "TPS": "burns",
+        "PPG": "burning"
+    },
+    {
+        "BF": "burst",
+        "PS": "burst",
+        "PP": "burst",
+        "TPS": "bursts",
+        "PPG": "bursting"
+    },
+    {
+        "BF": "bust",
+        "PS": "bust",
+        "PP": "bust",
+        "TPS": "busts",
+        "PPG": "busting"
+    },
+    {
+        "BF": "buy",
+        "PS": "bought",
+        "PP": "bought",
+        "TPS": "buys",
+        "PPG": "buying"
+    },
+    {
+        "BF": "cast",
+        "PS": "cast",
+        "PP": "cast",
+        "TPS": "casts",
+        "PPG": "casting"
+    },
+    {
+        "BF": "catch",
+        "PS": "caught",
+        "PP": "caught",
+        "TPS": "catches",
+        "PPG": "catching"
+    },
+    {
+        "BF": "cheerlead",
+        "PS": "cheerled",
+        "PP": "cheerled",
+        "TPS": "cheerleads",
+        "PPG": "cheerleading"
+    },
+    {
+        "BF": "chide",
+        "PS": "chid",
+        "PP": "chid/chidden",
+        "TPS": "chides",
+        "PPG": "chiding"
+    },
+    {
+        "BF": "choose",
+        "PS": "chose",
+        "PP": "chosen",
+        "TPS": "chooses",
+        "PPG": "choosing"
+    },
+    {
+        "BF": "clap",
+        "PS": "clapped/clapt",
+        "PP": "clapped/clapt",
+        "TPS": "claps",
+        "PPG": "clapping"
+    },
+    {
+        "BF": "clear-cut",
+        "PS": "clear-cut",
+        "PP": "clear-cut",
+        "TPS": "clear-cuts",
+        "PPG": "clear-cutting"
+    },
+    {
+        "BF": "cleave",
+        "PS": "cleft/cleaved/clove",
+        "PP": "cleft/cleaved/cloven",
+        "TPS": "cleaves",
+        "PPG": "cleaving"
+    },
+    {
+        "BF": "cleek",
+        "PS": "claught/claucht/cleeked",
+        "PP": "cleeked",
+        "TPS": "cleeks",
+        "PPG": "cleeking"
+    },
+    {
+        "BF": "clepe",
+        "PS": "cleped",
+        "PP": "cleped/ycleped/yclept",
+        "TPS": "clepes",
+        "PPG": "cleping"
+    },
+    {
+        "BF": "cling",
+        "PS": "clung",
+        "PP": "clung",
+        "TPS": "clings",
+        "PPG": "clinging"
+    },
+    {
+        "BF": "clothe",
+        "PS": "clad/clothed",
+        "PP": "clad/clothed",
+        "TPS": "clothes",
+        "PPG": "clothing"
+    },
+    {
+        "BF": "colorbreed",
+        "PS": "colorbred",
+        "PP": "colorbred",
+        "TPS": "colorbreeds",
+        "PPG": "colorbreeding"
+    },
+    {
+        "BF": "colorcast",
+        "PS": "colorcast",
+        "PP": "colorcast",
+        "TPS": "colorcasts",
+        "PPG": "colorcasting"
+    },
+    {
+        "BF": "come",
+        "PS": "came",
+        "PP": "come",
+        "TPS": "comes",
+        "PPG": "coming"
+    },
+    {
+        "BF": "cost",
+        "PS": "cost",
+        "PP": "cost",
+        "TPS": "costs",
+        "PPG": "costing"
+    },
+    {
+        "BF": "cost-cut",
+        "PS": "cost-cut",
+        "PP": "cost-cut",
+        "TPS": "cost-cuts",
+        "PPG": "cost-cutting"
+    },
+    {
+        "BF": "counterdraw",
+        "PS": "counterdrew",
+        "PP": "counterdrawn",
+        "TPS": "counterdraws",
+        "PPG": "counterdrawing"
+    },
+    {
+        "BF": "counterlight",
+        "PS": "counterlit",
+        "PP": "counterlit",
+        "TPS": "counterlights",
+        "PPG": "counterlighting"
+    },
+    {
+        "BF": "cowrite",
+        "PS": "cowrote",
+        "PP": "cowritten",
+        "TPS": "cowrites",
+        "PPG": "cowriting"
+    },
+    {
+        "BF": "crash-dive",
+        "PS": "crash-dived/crash-dove",
+        "PP": "crash-dived",
+        "TPS": "crash-dives",
+        "PPG": "crash-diving"
+    },
+    {
+        "BF": "creep",
+        "PS": "crept",
+        "PP": "crept",
+        "TPS": "creeps",
+        "PPG": "creeping"
+    },
+    {
+        "BF": "creep-feed",
+        "PS": "creep-fed",
+        "PP": "creep-fed",
+        "TPS": "creep-feeds",
+        "PPG": "creep-feeding"
+    },
+    {
+        "BF": "crib-bite",
+        "PS": "crib-bit",
+        "PP": "crib-bitten",
+        "TPS": "crib-bites",
+        "PPG": "crib-biting"
+    },
+    {
+        "BF": "cross-bite",
+        "PS": "cross-bit",
+        "PP": "cross-bitten",
+        "TPS": "cross-bites",
+        "PPG": "cross-biting"
+    },
+    {
+        "BF": "cross-string",
+        "PS": "cross-strung",
+        "PP": "cross-strung",
+        "TPS": "cross-strings",
+        "PPG": "cross-stringing"
+    },
+    {
+        "BF": "crossbreed",
+        "PS": "crossbred",
+        "PP": "crossbred",
+        "TPS": "crossbreeds",
+        "PPG": "crossbreeding"
+    },
+    {
+        "BF": "crosscut",
+        "PS": "crosscut",
+        "PP": "crosscut",
+        "TPS": "crosscuts",
+        "PPG": "crosscutting"
+    },
+    {
+        "BF": "crosslight",
+        "PS": "crosslit",
+        "PP": "crosslit",
+        "TPS": "crosslights",
+        "PPG": "crosslighting"
+    },
+    {
+        "BF": "crow",
+        "PS": "crowed/crew",
+        "PP": "crowed",
+        "TPS": "crows",
+        "PPG": "crowing"
+    },
+    {
+        "BF": "cut",
+        "PS": "cut",
+        "PP": "cut",
+        "TPS": "cuts",
+        "PPG": "cutting"
+    },
+    {
+        "BF": "dare",
+        "PS": "dared/durst",
+        "PP": "dared",
+        "TPS": "dares",
+        "PPG": "daring"
+    },
+    {
+        "BF": "daydream",
+        "PS": "daydreamt/daydreamt",
+        "PP": "daydreamt/daydreamt",
+        "TPS": "daydreams",
+        "PPG": "daydreaming"
+    },
+    {
+        "BF": "deal",
+        "PS": "dealt",
+        "PP": "dealt",
+        "TPS": "deals",
+        "PPG": "dealing"
+    },
+    {
+        "BF": "deep-freeze",
+        "PS": "deep-froze",
+        "PP": "deep-frozen",
+        "TPS": "deep-freezes",
+        "PPG": "deep-freezing"
+    },
+    {
+        "BF": "dig",
+        "PS": "dug",
+        "PP": "dug",
+        "TPS": "digs",
+        "PPG": "digging"
+    },
+    {
+        "BF": "dight",
+        "PS": "dight/dighted",
+        "PP": "dight/dighted",
+        "TPS": "dights",
+        "PPG": "dighting"
+    },
+    {
+        "BF": "dispread",
+        "PS": "dispread",
+        "PP": "dispread",
+        "TPS": "dispreads",
+        "PPG": "dispreading"
+    },
+    {
+        "BF": "disprove",
+        "PS": "disproved",
+        "PP": "disproven/disproved",
+        "TPS": "disproves",
+        "PPG": "disproving"
+    },
+    {
+        "BF": "dive",
+        "PS": "dived/dove",
+        "PP": "dived",
+        "TPS": "dives",
+        "PPG": "diving"
+    },
+    {
+        "BF": "do",
+        "PS": "did",
+        "PP": "done",
+        "TPS": "does",
+        "PPG": "doing"
+    },
+    {
+        "BF": "dogfight",
+        "PS": "dogfought",
+        "PP": "dogfought",
+        "TPS": "dogfights",
+        "PPG": "dogfighting"
+    },
+    {
+        "BF": "dow",
+        "PS": "dought/dowed",
+        "PP": "dought/dowed",
+        "TPS": "dows",
+        "PPG": "dowing"
+    },
+    {
+        "BF": "draw",
+        "PS": "drew",
+        "PP": "drawn",
+        "TPS": "draws",
+        "PPG": "drawing"
+    },
+    {
+        "BF": "dream",
+        "PS": "dreamt/dreamed",
+        "PP": "dreamt/dreamed",
+        "TPS": "dreams",
+        "PPG": "dreaming"
+    },
+    {
+        "BF": "drink",
+        "PS": "drank",
+        "PP": "drunk",
+        "TPS": "drinks",
+        "PPG": "drinking"
+    },
+    {
+        "BF": "drip-feed",
+        "PS": "drip-fed",
+        "PP": "drip-fed",
+        "TPS": "drip-feeds",
+        "PPG": "drip-feeding"
+    },
+    {
+        "BF": "drive",
+        "PS": "drove",
+        "PP": "driven",
+        "TPS": "drives",
+        "PPG": "driving"
+    },
+    {
+        "BF": "dwell",
+        "PS": "dwelt",
+        "PP": "dwelt",
+        "TPS": "dwells",
+        "PPG": "dwelling"
+    },
+    {
+        "BF": "eat",
+        "PS": "ate",
+        "PP": "eaten",
+        "TPS": "eats",
+        "PPG": "eating"
+    },
+    {
+        "BF": "end-run",
+        "PS": "end-ran",
+        "PP": "end-run",
+        "TPS": "end-runs",
+        "PPG": "end-running"
+    },
+    {
+        "BF": "engird",
+        "PS": "engirt",
+        "PP": "engirt",
+        "TPS": "engirds",
+        "PPG": "engirding"
+    },
+    {
+        "BF": "engrave",
+        "PS": "engraved",
+        "PP": "engraved/engraven",
+        "TPS": "engraves",
+        "PPG": "engraving"
+    },
+    {
+        "BF": "enwind",
+        "PS": "enwound",
+        "PP": "enwound",
+        "TPS": "enwinds",
+        "PPG": "enwinding"
+    },
+    {
+        "BF": "fall",
+        "PS": "fell",
+        "PP": "fallen",
+        "TPS": "falls",
+        "PPG": "falling"
+    },
+    {
+        "BF": "farebeat",
+        "PS": "farebeat",
+        "PP": "farebeaten",
+        "TPS": "farebeats",
+        "PPG": "farebeating"
+    },
+    {
+        "BF": "fast-cut",
+        "PS": "fast-cut",
+        "PP": "fast-cut",
+        "TPS": "fast-cuts",
+        "PPG": "fast-cutting"
+    },
+    {
+        "BF": "feed",
+        "PS": "fed",
+        "PP": "fed",
+        "TPS": "feeds",
+        "PPG": "feeding"
+    },
+    {
+        "BF": "feel",
+        "PS": "felt",
+        "PP": "felt",
+        "TPS": "feels",
+        "PPG": "feeling"
+    },
+    {
+        "BF": "fight",
+        "PS": "fought",
+        "PP": "fought",
+        "TPS": "fights",
+        "PPG": "fighting"
+    },
+    {
+        "BF": "find",
+        "PS": "found",
+        "PP": "found",
+        "TPS": "finds",
+        "PPG": "finding"
+    },
+    {
+        "BF": "fit",
+        "PS": "fit/fitted",
+        "PP": "fit/fitted",
+        "TPS": "fits",
+        "PPG": "fitting"
+    },
+    {
+        "BF": "flash-freeze",
+        "PS": "flash-froze",
+        "PP": "flash-frozen",
+        "TPS": "flash-freezes",
+        "PPG": "flash-freezing"
+    },
+    {
+        "BF": "flee",
+        "PS": "fled",
+        "PP": "fled",
+        "TPS": "flees",
+        "PPG": "fleeing"
+    },
+    {
+        "BF": "fling",
+        "PS": "flung",
+        "PP": "flung",
+        "TPS": "flings",
+        "PPG": "flinging"
+    },
+    {
+        "BF": "floodlight",
+        "PS": "floodlit",
+        "PP": "floodlit",
+        "TPS": "floodlights",
+        "PPG": "floodlighting"
+    },
+    {
+        "BF": "fly",
+        "PS": "flew",
+        "PP": "flown",
+        "TPS": "flies",
+        "PPG": "flying"
+    },
+    {
+        "BF": "flyblow",
+        "PS": "flyblew",
+        "PP": "flyblown",
+        "TPS": "flyblows",
+        "PPG": "flyblowing"
+    },
+    {
+        "BF": "forbear",
+        "PS": "forbore",
+        "PP": "forborne/forborn",
+        "TPS": "forbears",
+        "PPG": "forbearing"
+    },
+    {
+        "BF": "forbid",
+        "PS": "forbade/forbad",
+        "PP": "forbidden",
+        "TPS": "forbids",
+        "PPG": "forbidding"
+    },
+    {
+        "BF": "force-feed",
+        "PS": "force-fed",
+        "PP": "force-fed",
+        "TPS": "force-feeds",
+        "PPG": "force-feeding"
+    },
+    {
+        "BF": "fordo/foredo",
+        "PS": "fordid",
+        "PP": "fordone",
+        "TPS": "fordoes",
+        "PPG": "fordoing"
+    },
+    {
+        "BF": "forecast",
+        "PS": "forecast/forecasted",
+        "PP": "forecast/forecasted",
+        "TPS": "forecasts",
+        "PPG": "forecasting"
+    },
+    {
+        "BF": "forefeel",
+        "PS": "forefelt",
+        "PP": "forefelt",
+        "TPS": "forefeels",
+        "PPG": "forefeeling"
+    },
+    {
+        "BF": "forego",
+        "PS": "forewent",
+        "PP": "foregone",
+        "TPS": "foregoes",
+        "PPG": "foregoing"
+    },
+    {
+        "BF": "foreknow",
+        "PS": "foreknew",
+        "PP": "foreknown",
+        "TPS": "foreknows",
+        "PPG": "foreknowing"
+    },
+    {
+        "BF": "forerun",
+        "PS": "foreran",
+        "PP": "forerun",
+        "TPS": "foreruns",
+        "PPG": "forerunning"
+    },
+    {
+        "BF": "foresee",
+        "PS": "foresaw",
+        "PP": "foreseen",
+        "TPS": "foresees",
+        "PPG": "foreseeing"
+    },
+    {
+        "BF": "foreshow",
+        "PS": "foreshowed",
+        "PP": "forshowed/foreshown",
+        "TPS": "foreshows",
+        "PPG": "foreshowing"
+    },
+    {
+        "BF": "forespeak",
+        "PS": "forespoke",
+        "PP": "forespoken",
+        "TPS": "forespeaks",
+        "PPG": "forespeaking"
+    },
+    {
+        "BF": "foretell",
+        "PS": "foretold",
+        "PP": "foretold",
+        "TPS": "foretells",
+        "PPG": "foretelling"
+    },
+    {
+        "BF": "forget",
+        "PS": "forgot",
+        "PP": "forgotten",
+        "TPS": "forgets",
+        "PPG": "foregetting"
+    },
+    {
+        "BF": "forgive",
+        "PS": "forgave",
+        "PP": "forgiven",
+        "TPS": "forgives",
+        "PPG": "forgiving"
+    },
+    {
+        "BF": "forlese",
+        "PS": "forlore",
+        "PP": "forlorn",
+        "TPS": "forleses",
+        "PPG": "forlesing"
+    },
+    {
+        "BF": "forsake",
+        "PS": "forsook",
+        "PP": "forsaken",
+        "TPS": "forsakes",
+        "PPG": "forsaking"
+    },
+    {
+        "BF": "forswear",
+        "PS": "forswore",
+        "PP": "forsworn",
+        "TPS": "forswears",
+        "PPG": "forswearing"
+    },
+    {
+        "BF": "fraught",
+        "PS": "fraught/fraughted",
+        "PP": "fraught/fraughted",
+        "TPS": "fraughts",
+        "PPG": "fraughting"
+    },
+    {
+        "BF": "free-fall",
+        "PS": "free-fell",
+        "PP": "free-fallen",
+        "TPS": "free-falls",
+        "PPG": "free-falling"
+    },
+    {
+        "BF": "freeze",
+        "PS": "froze",
+        "PP": "frozen",
+        "TPS": "freezes",
+        "PPG": "freezing"
+    },
+    {
+        "BF": "frostbite",
+        "PS": "frostbit",
+        "PP": "frostbitten",
+        "TPS": "frostbites",
+        "PPG": "frostbiting"
+    },
+    {
+        "BF": "gainsay",
+        "PS": "gainsaid",
+        "PP": "gainsaid",
+        "TPS": "gainsays",
+        "PPG": "gainsaying"
+    },
+    {
+        "BF": "gaslight",
+        "PS": "gaslit/gaslighted",
+        "PP": "gaslit/gaslighted",
+        "TPS": "gaslights",
+        "PPG": "gaslighting"
+    },
+    {
+        "BF": "geld",
+        "PS": "gelded/gelt",
+        "PP": "gelded/gelt",
+        "TPS": "gelds",
+        "PPG": "gelding"
+    },
+    {
+        "BF": "get",
+        "PS": "got",
+        "PP": "got/gotten",
+        "TPS": "gets",
+        "PPG": "getting"
+    },
+    {
+        "BF": "ghostwrite",
+        "PS": "ghostwrote",
+        "PP": "ghostwritten",
+        "TPS": "ghostwrites",
+        "PPG": "ghostwriting"
+    },
+    {
+        "BF": "gild",
+        "PS": "gilt/gilded",
+        "PP": "gilt/gilded",
+        "TPS": "gilds",
+        "PPG": "gilding"
+    },
+    {
+        "BF": "gin",
+        "PS": "gan",
+        "PP": "gan",
+        "TPS": "gins",
+        "PPG": "ginning"
+    },
+    {
+        "BF": "gird",
+        "PS": "girded/girt",
+        "PP": "girded/girt",
+        "TPS": "girds",
+        "PPG": "girding"
+    },
+    {
+        "BF": "give",
+        "PS": "gave",
+        "PP": "given",
+        "TPS": "gives",
+        "PPG": "giving"
+    },
+    {
+        "BF": "gnaw",
+        "PS": "gnawed",
+        "PP": "gnawed/gnawn",
+        "TPS": "gnaws",
+        "PPG": "gnawing"
+    },
+    {
+        "BF": "go",
+        "PS": "went",
+        "PP": "gone/been",
+        "TPS": "goes",
+        "PPG": "going"
+    },
+    {
+        "BF": "grave",
+        "PS": "graved",
+        "PP": "graven/graved",
+        "TPS": "graves",
+        "PPG": "graving"
+    },
+    {
+        "BF": "grind",
+        "PS": "ground",
+        "PP": "ground",
+        "TPS": "grinds",
+        "PPG": "grinding"
+    },
+    {
+        "BF": "grow",
+        "PS": "grew",
+        "PP": "grown",
+        "TPS": "grows",
+        "PPG": "growing"
+    },
+    {
+        "BF": "hagride",
+        "PS": "hagrode",
+        "PP": "hagridden",
+        "TPS": "hagrides",
+        "PPG": "hagriding"
+    },
+    {
+        "BF": "halterbreak",
+        "PS": "halterbroke",
+        "PP": "halterbroken",
+        "TPS": "halterbreaks",
+        "PPG": "halterbreaking"
+    },
+    {
+        "BF": "hamstring",
+        "PS": "hamstrung/hamstringed",
+        "PP": "hamstrung/hamstringed",
+        "TPS": "hamstrings",
+        "PPG": "hamstringing"
+    },
+    {
+        "BF": "hand-feed",
+        "PS": "hand-fed",
+        "PP": "hand-fed",
+        "TPS": "hand-feeds",
+        "PPG": "hand-feeding"
+    },
+    {
+        "BF": "hand-ride",
+        "PS": "hand-rode",
+        "PP": "hand-ridden",
+        "TPS": "hand-rides",
+        "PPG": "hand-riding"
+    },
+    {
+        "BF": "handsew",
+        "PS": "handsewed",
+        "PP": "handsewn/handsewed",
+        "TPS": "handsews",
+        "PPG": "handsewing"
+    },
+    {
+        "BF": "handwrite",
+        "PS": "handwrote",
+        "PP": "handwritten",
+        "TPS": "handwrites",
+        "PPG": "handwriting"
+    },
+    {
+        "BF": "hang",
+        "PS": "hung/hanged",
+        "PP": "hung/hanged",
+        "TPS": "hangs",
+        "PPG": "hanging"
+    },
+    {
+        "BF": "have",
+        "PS": "had",
+        "PP": "had",
+        "TPS": "has",
+        "PPG": "having"
+    },
+    {
+        "BF": "hear",
+        "PS": "heard",
+        "PP": "heard",
+        "TPS": "hears",
+        "PPG": "hearing"
+    },
+    {
+        "BF": "heave",
+        "PS": "heaved/hove",
+        "PP": "heaved/hove",
+        "TPS": "heaves",
+        "PPG": "heaving"
+    },
+    {
+        "BF": "hew",
+        "PS": "hewed",
+        "PP": "hewn",
+        "TPS": "hews",
+        "PPG": "hewing"
+    },
+    {
+        "BF": "hide",
+        "PS": "hid",
+        "PP": "hidden",
+        "TPS": "hides",
+        "PPG": "hiding"
+    },
+    {
+        "BF": "hight",
+        "PS": "hote/hight",
+        "PP": "hoten",
+        "TPS": "hights",
+        "PPG": "highting"
+    },
+    {
+        "BF": "hit",
+        "PS": "hit",
+        "PP": "hit",
+        "TPS": "hits",
+        "PPG": "hitting"
+    },
+    {
+        "BF": "hoise",
+        "PS": "hoised/hoist",
+        "PP": "hoised/hoist",
+        "TPS": "hoises",
+        "PPG": "hoising"
+    },
+    {
+        "BF": "hoist",
+        "PS": "hoist/hoisted",
+        "PP": "hoist/hoisted",
+        "TPS": "hoists",
+        "PPG": "hoisting"
+    },
+    {
+        "BF": "hold",
+        "PS": "held",
+        "PP": "held",
+        "TPS": "holds",
+        "PPG": "holding"
+    },
+    {
+        "BF": "house-sit",
+        "PS": "house-sat",
+        "PP": "house-sat",
+        "TPS": "house-sits",
+        "PPG": "house-sitting"
+    },
+    {
+        "BF": "housebreak",
+        "PS": "housebroke",
+        "PP": "housebroken",
+        "TPS": "housebreaks",
+        "PPG": "housebreaking"
+    },
+    {
+        "BF": "hurt",
+        "PS": "hurt",
+        "PP": "hurt",
+        "TPS": "hurts",
+        "PPG": "hurting"
+    },
+    {
+        "BF": "inbreed",
+        "PS": "inbred",
+        "PP": "inbred",
+        "TPS": "inbreeds",
+        "PPG": "inbreeding"
+    },
+    {
+        "BF": "indwell",
+        "PS": "indwelt",
+        "PP": "indwelt",
+        "TPS": "indwells",
+        "PPG": "indwelling"
+    },
+    {
+        "BF": "inhold",
+        "PS": "inheld",
+        "PP": "inheld",
+        "TPS": "inholds",
+        "PPG": "inholding"
+    },
+    {
+        "BF": "inlay",
+        "PS": "inlaid",
+        "PP": "inlaid",
+        "TPS": "inlays",
+        "PPG": "inlaying"
+    },
+    {
+        "BF": "input",
+        "PS": "input/inputted",
+        "PP": "input/inputted",
+        "TPS": "inputs",
+        "PPG": "inputting"
+    },
+    {
+        "BF": "inset",
+        "PS": "inset",
+        "PP": "inset",
+        "TPS": "insets",
+        "PPG": "insetting"
+    },
+    {
+        "BF": "interblend",
+        "PS": "interblended/interblent",
+        "PP": "interblended/interblent",
+        "TPS": "interblends",
+        "PPG": "interblending"
+    },
+    {
+        "BF": "interbreed",
+        "PS": "interbred",
+        "PP": "interbred",
+        "TPS": "interbreeds",
+        "PPG": "interbreeding"
+    },
+    {
+        "BF": "intercut",
+        "PS": "intercut",
+        "PP": "intercut",
+        "TPS": "intercuts",
+        "PPG": "intercutting"
+    },
+    {
+        "BF": "intergrave",
+        "PS": "intergraved",
+        "PP": "intergraved/intergraven",
+        "TPS": "intergraves",
+        "PPG": "intergraving"
+    },
+    {
+        "BF": "interlay",
+        "PS": "interlaid",
+        "PP": "interlaid",
+        "TPS": "interlays",
+        "PPG": "interlaying"
+    },
+    {
+        "BF": "interset",
+        "PS": "interset",
+        "PP": "interset",
+        "TPS": "intersets",
+        "PPG": "intersetting"
+    },
+    {
+        "BF": "interweave",
+        "PS": "interwove",
+        "PP": "interwoven",
+        "TPS": "interweaves",
+        "PPG": "interweaving"
+    },
+    {
+        "BF": "interwind",
+        "PS": "interwound",
+        "PP": "interwound",
+        "TPS": "interwinds",
+        "PPG": "interwinding"
+    },
+    {
+        "BF": "inweave",
+        "PS": "inwove/inweaved",
+        "PP": "inwoven/inweaved",
+        "TPS": "inweaves",
+        "PPG": "inweaving"
+    },
+    {
+        "BF": "inwind",
+        "PS": "inwound",
+        "PP": "inwound",
+        "TPS": "inwinds",
+        "PPG": "inwinding"
+    },
+    {
+        "BF": "jerry-build",
+        "PS": "jerry-built",
+        "PP": "jerry-built",
+        "TPS": "jerry-builds",
+        "PPG": "jerry-building"
+    },
+    {
+        "BF": "keep",
+        "PS": "kept",
+        "PP": "kept",
+        "TPS": "keeps",
+        "PPG": "keeping"
+    },
+    {
+        "BF": "ken",
+        "PS": "kent/kenned",
+        "PP": "kent/kenned",
+        "TPS": "kens",
+        "PPG": "kenning"
+    },
+    {
+        "BF": "kneel",
+        "PS": "knelt/kneeled",
+        "PP": "knelt/kneeled",
+        "TPS": "kneels",
+        "PPG": "kneeling"
+    },
+    {
+        "BF": "knit",
+        "PS": "knit/knitted",
+        "PP": "knit/knitted",
+        "TPS": "knits",
+        "PPG": "knitting"
+    },
+    {
+        "BF": "know",
+        "PS": "knew",
+        "PP": "known",
+        "TPS": "knows",
+        "PPG": "knowing"
+    },
+    {
+        "BF": "lade",
+        "PS": "laded",
+        "PP": "laden/laded",
+        "TPS": "lades",
+        "PPG": "lading"
+    },
+    {
+        "BF": "landslide",
+        "PS": "landslid/landslided",
+        "PP": "landslid/landslided",
+        "TPS": "landslides",
+        "PPG": "landsliding"
+    },
+    {
+        "BF": "lay",
+        "PS": "laid",
+        "PP": "laid",
+        "TPS": "lays",
+        "PPG": "laying"
+    },
+    {
+        "BF": "lead",
+        "PS": "led",
+        "PP": "led",
+        "TPS": "leads",
+        "PPG": "leading"
+    },
+    {
+        "BF": "lean",
+        "PS": "leant/leaned",
+        "PP": "leant/leaned",
+        "TPS": "leans",
+        "PPG": "leaning"
+    },
+    {
+        "BF": "leap",
+        "PS": "leapt/leaped",
+        "PP": "leapt/leaped",
+        "TPS": "leaps",
+        "PPG": "leaping"
+    },
+    {
+        "BF": "learn",
+        "PS": "learnt/learned",
+        "PP": "learnt/learned",
+        "TPS": "learns",
+        "PPG": "learning"
+    },
+    {
+        "BF": "leave",
+        "PS": "left",
+        "PP": "left",
+        "TPS": "leaves",
+        "PPG": "leaving"
+    },
+    {
+        "BF": "lend",
+        "PS": "lent",
+        "PP": "lent",
+        "TPS": "lends",
+        "PPG": "lending"
+    },
+    {
+        "BF": "lep",
+        "PS": "lept",
+        "PP": "lept",
+        "TPS": "leps",
+        "PPG": "lepping"
+    },
+    {
+        "BF": "let",
+        "PS": "let",
+        "PP": "let",
+        "TPS": "lets",
+        "PPG": "letting"
+    },
+    {
+        "BF": "lie",
+        "PS": "lay",
+        "PP": "lain",
+        "TPS": "lies",
+        "PPG": "lying"
+    },
+    {
+        "BF": "light",
+        "PS": "lit",
+        "PP": "lit",
+        "TPS": "lights",
+        "PPG": "lighting"
+    },
+    {
+        "BF": "linebreed",
+        "PS": "linebred",
+        "PP": "linebred",
+        "TPS": "linebreeds",
+        "PPG": "linebreeding"
+    },
+    {
+        "BF": "lip-read",
+        "PS": "lip-read",
+        "PP": "lip-read",
+        "TPS": "lip-reads",
+        "PPG": "lip-reading"
+    },
+    {
+        "BF": "lose",
+        "PS": "lost",
+        "PP": "lost",
+        "TPS": "loses",
+        "PPG": "losing"
+    },
+    {
+        "BF": "make",
+        "PS": "made",
+        "PP": "made",
+        "TPS": "makes",
+        "PPG": "making"
+    },
+    {
+        "BF": "mean",
+        "PS": "meant",
+        "PP": "meant",
+        "TPS": "means",
+        "PPG": "meaning"
+    },
+    {
+        "BF": "meet",
+        "PS": "met",
+        "PP": "met",
+        "TPS": "meets",
+        "PPG": "meeting"
+    },
+    {
+        "BF": "melt",
+        "PS": "melted",
+        "PP": "molten/melted",
+        "TPS": "melts",
+        "PPG": "melting"
+    },
+    {
+        "BF": "misbecome",
+        "PS": "misbecame",
+        "PP": "misbecome",
+        "TPS": "misbecomes",
+        "PPG": "misbecoming"
+    },
+    {
+        "BF": "miscast",
+        "PS": "miscast",
+        "PP": "miscast",
+        "TPS": "miscasts",
+        "PPG": "miscasting"
+    },
+    {
+        "BF": "mischoose",
+        "PS": "mischose",
+        "PP": "mischosen",
+        "TPS": "mischooses",
+        "PPG": "mischoosins"
+    },
+    {
+        "BF": "miscut",
+        "PS": "miscut",
+        "PP": "miscut",
+        "TPS": "miscuts",
+        "PPG": "miscutting"
+    },
+    {
+        "BF": "misdeal",
+        "PS": "misdealt",
+        "PP": "misdealt",
+        "TPS": "misdeals",
+        "PPG": "misdealing"
+    },
+    {
+        "BF": "misdo",
+        "PS": "misdid",
+        "PP": "misdone",
+        "TPS": "misdoes",
+        "PPG": "misdoing"
+    },
+    {
+        "BF": "misfall",
+        "PS": "misfell",
+        "PP": "misfallen",
+        "TPS": "misfalls",
+        "PPG": "misfalling"
+    },
+    {
+        "BF": "misfeed",
+        "PS": "misfed",
+        "PP": "misfed",
+        "TPS": "misfeeds",
+        "PPG": "misfeeding"
+    },
+    {
+        "BF": "misgive",
+        "PS": "misgave",
+        "PP": "misgiven",
+        "TPS": "misgive",
+        "PPG": "misgiving"
+    },
+    {
+        "BF": "mishear",
+        "PS": "misheard",
+        "PP": "misheard",
+        "TPS": "mishears",
+        "PPG": "mishearing"
+    },
+    {
+        "BF": "mishit",
+        "PS": "mishit",
+        "PP": "mishit",
+        "TPS": "mishits",
+        "PPG": "mishitting"
+    },
+    {
+        "BF": "misknow",
+        "PS": "misknew",
+        "PP": "misknown",
+        "TPS": "misknows",
+        "PPG": "misknowing"
+    },
+    {
+        "BF": "mislay",
+        "PS": "mislaid",
+        "PP": "mislaid",
+        "TPS": "mislays",
+        "PPG": "mislaying"
+    },
+    {
+        "BF": "mislead",
+        "PS": "misled",
+        "PP": "misled",
+        "TPS": "misleads",
+        "PPG": "misleading"
+    },
+    {
+        "BF": "mislearn",
+        "PS": "mislearnt/mislearned",
+        "PP": "mislearnt/mislearned",
+        "TPS": "mislearns",
+        "PPG": "mislearning"
+    },
+    {
+        "BF": "misread",
+        "PS": "misread",
+        "PP": "misread",
+        "TPS": "misreads",
+        "PPG": "misreading"
+    },
+    {
+        "BF": "missay",
+        "PS": "missaid",
+        "PP": "missaid",
+        "TPS": "missays",
+        "PPG": "missaying"
+    },
+    {
+        "BF": "missend",
+        "PS": "missent",
+        "PP": "missent",
+        "TPS": "missends",
+        "PPG": "missending"
+    },
+    {
+        "BF": "misset",
+        "PS": "misset",
+        "PP": "misset",
+        "TPS": "missets",
+        "PPG": "missetting"
+    },
+    {
+        "BF": "misspeak",
+        "PS": "misspoke",
+        "PP": "misspoken",
+        "TPS": "misspeaks",
+        "PPG": "misspeaking"
+    },
+    {
+        "BF": "misspell",
+        "PS": "misspelt/misspelled",
+        "PP": "misspelt/misspelled",
+        "TPS": "misspells",
+        "PPG": "misspelling"
+    },
+    {
+        "BF": "misspend",
+        "PS": "misspent",
+        "PP": "misspent",
+        "TPS": "misspends",
+        "PPG": "misspending"
+    },
+    {
+        "BF": "misswear",
+        "PS": "misswore",
+        "PP": "missworn",
+        "TPS": "misswears",
+        "PPG": "misswearing"
+    },
+    {
+        "BF": "mistake",
+        "PS": "mistook",
+        "PP": "mistaken",
+        "TPS": "mistake",
+        "PPG": "mistaking"
+    },
+    {
+        "BF": "misteach",
+        "PS": "mistaught",
+        "PP": "mistaught",
+        "TPS": "misteaches",
+        "PPG": "misteaching"
+    },
+    {
+        "BF": "mistell",
+        "PS": "mistold",
+        "PP": "mistold",
+        "TPS": "mistells",
+        "PPG": "mistelling"
+    },
+    {
+        "BF": "misthink",
+        "PS": "misthought",
+        "PP": "misthought",
+        "TPS": "misthinks",
+        "PPG": "misthinking"
+    },
+    {
+        "BF": "misunderstand",
+        "PS": "misunderstood",
+        "PP": "misunderstood",
+        "TPS": "misunderstands",
+        "PPG": "misunderstanding"
+    },
+    {
+        "BF": "miswear",
+        "PS": "misswore",
+        "PP": "misworn",
+        "TPS": "misswears",
+        "PPG": "miswearing"
+    },
+    {
+        "BF": "miswed",
+        "PS": "miswed/miswedded",
+        "PP": "miswed/miswedded",
+        "TPS": "misweds",
+        "PPG": "miswedding"
+    },
+    {
+        "BF": "miswrite",
+        "PS": "miswrote",
+        "PP": "miswritten",
+        "TPS": "miswrites",
+        "PPG": "miswriting"
+    },
+    {
+        "BF": "moonlight",
+        "PS": "moonlit",
+        "PP": "moonlit",
+        "TPS": "moonlights",
+        "PPG": "moonlighting"
+    },
+    {
+        "BF": "mow",
+        "PS": "mowed",
+        "PP": "mown",
+        "TPS": "mows",
+        "PPG": "mowing"
+    },
+    {
+        "BF": "naysay",
+        "PS": "naysaid",
+        "PP": "naysaid",
+        "TPS": "naysays",
+        "PPG": "naysaying"
+    },
+    {
+        "BF": "nose-dive",
+        "PS": "nose-dived/nose-dove",
+        "PP": "nose-dived/nose-dove",
+        "TPS": "nose-dives",
+        "PPG": "nose-diving"
+    },
+    {
+        "BF": "offset",
+        "PS": "offset",
+        "PP": "offset",
+        "TPS": "offsets",
+        "PPG": "offsetting"
+    },
+    {
+        "BF": "outbid",
+        "PS": "outbid",
+        "PP": "outbid",
+        "TPS": "outbids",
+        "PPG": "outbidding"
+    },
+    {
+        "BF": "outbreed",
+        "PS": "outbred",
+        "PP": "outbred",
+        "TPS": "outbreeds",
+        "PPG": "outbreeding"
+    },
+    {
+        "BF": "outdo",
+        "PS": "outdid",
+        "PP": "outdone",
+        "TPS": "outdoes",
+        "PPG": "outdoing"
+    },
+    {
+        "BF": "outdraw",
+        "PS": "outdrew",
+        "PP": "outdrawn",
+        "TPS": "outdraws",
+        "PPG": "outdrawing"
+    },
+    {
+        "BF": "outdrink",
+        "PS": "outdrank",
+        "PP": "outdrunk",
+        "TPS": "outdrinks",
+        "PPG": "outdrinking"
+    },
+    {
+        "BF": "outdrive",
+        "PS": "outdrove",
+        "PP": "outdriven",
+        "TPS": "outdrives",
+        "PPG": "outdriving"
+    },
+    {
+        "BF": "outfight",
+        "PS": "outfought",
+        "PP": "outfought",
+        "TPS": "outfights",
+        "PPG": "outfighting"
+    },
+    {
+        "BF": "outfly",
+        "PS": "outflew",
+        "PP": "outflown",
+        "TPS": "outflies",
+        "PPG": "outflying"
+    },
+    {
+        "BF": "outgrow",
+        "PS": "outgrew",
+        "PP": "outgrown",
+        "TPS": "outgrows",
+        "PPG": "outgrowing"
+    },
+    {
+        "BF": "outlay",
+        "PS": "outlaid",
+        "PP": "outlaid",
+        "TPS": "outlays",
+        "PPG": "outlaying"
+    },
+    {
+        "BF": "outleap",
+        "PS": "outleapt/outleaped",
+        "PP": "outleapt/outleaped",
+        "TPS": "outleaps",
+        "PPG": "outleaping"
+    },
+    {
+        "BF": "output",
+        "PS": "output/outputted",
+        "PP": "output/outputted",
+        "TPS": "outputs",
+        "PPG": "outputting"
+    },
+    {
+        "BF": "outride",
+        "PS": "outrode",
+        "PP": "outridden",
+        "TPS": "outrides",
+        "PPG": "outriding"
+    },
+    {
+        "BF": "outrun",
+        "PS": "outran",
+        "PP": "outrun",
+        "TPS": "outruns",
+        "PPG": "outrunning"
+    },
+    {
+        "BF": "outsee",
+        "PS": "outsaw",
+        "PP": "outseen",
+        "TPS": "outsees",
+        "PPG": "outseeing"
+    },
+    {
+        "BF": "outsell",
+        "PS": "outsold",
+        "PP": "outsold",
+        "TPS": "outsells",
+        "PPG": "outselling"
+    },
+    {
+        "BF": "outshine",
+        "PS": "outshone",
+        "PP": "outshone",
+        "TPS": "outshines",
+        "PPG": "outshining"
+    },
+    {
+        "BF": "outshoot",
+        "PS": "outshot",
+        "PP": "outshot",
+        "TPS": "outshoots",
+        "PPG": "outshooting"
+    },
+    {
+        "BF": "outsing",
+        "PS": "outsang",
+        "PP": "outsung",
+        "TPS": "outsings",
+        "PPG": "outsinging"
+    },
+    {
+        "BF": "outsit",
+        "PS": "outsat",
+        "PP": "outsat",
+        "TPS": "outsits",
+        "PPG": "outsitting"
+    },
+    {
+        "BF": "outsleep",
+        "PS": "outslept",
+        "PP": "outslept",
+        "TPS": "outsleeps",
+        "PPG": "outsleeping"
+    },
+    {
+        "BF": "outsmell",
+        "PS": "outsmelt/outsmelled",
+        "PP": "outsmelt/outsmelled",
+        "TPS": "outsmells",
+        "PPG": "outsmelling"
+    },
+    {
+        "BF": "outspeak",
+        "PS": "outspoke",
+        "PP": "outspoken",
+        "TPS": "outspeaks",
+        "PPG": "outspeaking"
+    },
+    {
+        "BF": "outspeed",
+        "PS": "outsped",
+        "PP": "outsped",
+        "TPS": "outspeeds",
+        "PPG": "outspeeding"
+    },
+    {
+        "BF": "outspend",
+        "PS": "outspent",
+        "PP": "outspent",
+        "TPS": "outspends",
+        "PPG": "outspending"
+    },
+    {
+        "BF": "outspin",
+        "PS": "outspun",
+        "PP": "outspun",
+        "TPS": "outspins",
+        "PPG": "outspinning"
+    },
+    {
+        "BF": "outspring",
+        "PS": "outsprang",
+        "PP": "outsprung",
+        "TPS": "outsprings",
+        "PPG": "outspringing"
+    },
+    {
+        "BF": "outstand",
+        "PS": "outstood",
+        "PP": "outstood",
+        "TPS": "outstands",
+        "PPG": "outstanding"
+    },
+    {
+        "BF": "outswear",
+        "PS": "outswore",
+        "PP": "outsworn",
+        "TPS": "outswears",
+        "PPG": "outswearing"
+    },
+    {
+        "BF": "outswim",
+        "PS": "outswam",
+        "PP": "outswum",
+        "TPS": "outswims",
+        "PPG": "outswimming"
+    },
+    {
+        "BF": "outtell",
+        "PS": "outtold",
+        "PP": "outtold",
+        "TPS": "outtells",
+        "PPG": "outtelling"
+    },
+    {
+        "BF": "outthink",
+        "PS": "outthought",
+        "PP": "outthought",
+        "TPS": "outthinks",
+        "PPG": "outthinking"
+    },
+    {
+        "BF": "outthrow",
+        "PS": "outthrew",
+        "PP": "outthrown",
+        "TPS": "outthrows",
+        "PPG": "outthrowing"
+    },
+    {
+        "BF": "outwear",
+        "PS": "outwore",
+        "PP": "outworn",
+        "TPS": "outwears",
+        "PPG": "outwearing"
+    },
+    {
+        "BF": "outwind",
+        "PS": "outwound",
+        "PP": "outwound",
+        "TPS": "outwinds",
+        "PPG": "outwinding"
+    },
+    {
+        "BF": "outwork",
+        "PS": "outworked/outwrought",
+        "PP": "outworked/outwrought",
+        "TPS": "outworks",
+        "PPG": "outworking"
+    },
+    {
+        "BF": "outwrite",
+        "PS": "outwrote",
+        "PP": "outwritten",
+        "TPS": "outwrites",
+        "PPG": "outwriting"
+    },
+    {
+        "BF": "overbear",
+        "PS": "overbore",
+        "PP": "overborne",
+        "TPS": "overbears",
+        "PPG": "overbearing"
+    },
+    {
+        "BF": "overbid",
+        "PS": "overbid",
+        "PP": "overbid",
+        "TPS": "overbids",
+        "PPG": "overbidding"
+    },
+    {
+        "BF": "overblow",
+        "PS": "overblew",
+        "PP": "overblown",
+        "TPS": "overblows",
+        "PPG": "overblowing"
+    },
+    {
+        "BF": "overbreed",
+        "PS": "overbred",
+        "PP": "overbred",
+        "TPS": "overbreeds",
+        "PPG": "overbreeding"
+    },
+    {
+        "BF": "overbuild",
+        "PS": "overbuilt",
+        "PP": "overbuilt",
+        "TPS": "overbuilds",
+        "PPG": "overbuilding"
+    },
+    {
+        "BF": "overbuy",
+        "PS": "overbought",
+        "PP": "overbought",
+        "TPS": "overbuys",
+        "PPG": "overbuying"
+    },
+    {
+        "BF": "overcast",
+        "PS": "overcast",
+        "PP": "overcast",
+        "TPS": "overcasts",
+        "PPG": "overcasting"
+    },
+    {
+        "BF": "overcome",
+        "PS": "overcame",
+        "PP": "overcome",
+        "TPS": "overcomes",
+        "PPG": "overcoming"
+    },
+    {
+        "BF": "overcut",
+        "PS": "overcut",
+        "PP": "overcut",
+        "TPS": "overcuts",
+        "PPG": "overcutting"
+    },
+    {
+        "BF": "overdo",
+        "PS": "overdid",
+        "PP": "overdone",
+        "TPS": "overdoes",
+        "PPG": "overdoing"
+    },
+    {
+        "BF": "overdraw",
+        "PS": "overdrew",
+        "PP": "overdrawn",
+        "TPS": "overdraws",
+        "PPG": "overdrawing"
+    },
+    {
+        "BF": "overdrink",
+        "PS": "overdrank",
+        "PP": "overdrunk",
+        "TPS": "overdrinks",
+        "PPG": "overdrinking"
+    },
+    {
+        "BF": "overdrive",
+        "PS": "overdrove",
+        "PP": "overdriven",
+        "TPS": "overdrives",
+        "PPG": "overdriving"
+    },
+    {
+        "BF": "overeat",
+        "PS": "overate",
+        "PP": "overeaten",
+        "TPS": "overeats",
+        "PPG": "overeating"
+    },
+    {
+        "BF": "overfeed",
+        "PS": "overfed",
+        "PP": "overfed",
+        "TPS": "overfeeds",
+        "PPG": "overfeeding"
+    },
+    {
+        "BF": "overfly",
+        "PS": "overflew",
+        "PP": "overflown",
+        "TPS": "overflies",
+        "PPG": "overflying"
+    },
+    {
+        "BF": "overgrow",
+        "PS": "overgrew",
+        "PP": "overgrown",
+        "TPS": "overgrows",
+        "PPG": "overgrowing"
+    },
+    {
+        "BF": "overhang",
+        "PS": "overhung",
+        "PP": "overhung",
+        "TPS": "overhangs",
+        "PPG": "overhanging"
+    },
+    {
+        "BF": "overhear",
+        "PS": "overheard",
+        "PP": "overheard",
+        "TPS": "overhears",
+        "PPG": "overhearing"
+    },
+    {
+        "BF": "overlay",
+        "PS": "overlaid",
+        "PP": "overlaid",
+        "TPS": "overlays",
+        "PPG": "overlaying"
+    },
+    {
+        "BF": "overleap",
+        "PS": "overleapt/overleaped",
+        "PP": "overleapt/overleaped",
+        "TPS": "overleaps",
+        "PPG": "overleaping"
+    },
+    {
+        "BF": "overlearn",
+        "PS": "overlearnt/overlearned",
+        "PP": "overlearnt/overlearned",
+        "TPS": "overlearns",
+        "PPG": "overlearning"
+    },
+    {
+        "BF": "overlie",
+        "PS": "overlay",
+        "PP": "overlain",
+        "TPS": "overlies",
+        "PPG": "overlying"
+    },
+    {
+        "BF": "overpass",
+        "PS": "overpast/overpassed",
+        "PP": "overpast/overpassed",
+        "TPS": "overpasses",
+        "PPG": "overpassing"
+    },
+    {
+        "BF": "overpay",
+        "PS": "overpaid",
+        "PP": "overpaid",
+        "TPS": "overpays",
+        "PPG": "overpaying"
+    },
+    {
+        "BF": "override",
+        "PS": "overrode",
+        "PP": "overridden",
+        "TPS": "overrides",
+        "PPG": "overriding"
+    },
+    {
+        "BF": "overrun",
+        "PS": "overran",
+        "PP": "overrun",
+        "TPS": "overruns",
+        "PPG": "overrunning"
+    },
+    {
+        "BF": "oversee",
+        "PS": "oversaw",
+        "PP": "overseen",
+        "TPS": "oversees",
+        "PPG": "overseeing"
+    },
+    {
+        "BF": "oversell",
+        "PS": "oversold",
+        "PP": "oversold",
+        "TPS": "oversells",
+        "PPG": "overselling"
+    },
+    {
+        "BF": "overset",
+        "PS": "overset",
+        "PP": "overset",
+        "TPS": "oversets",
+        "PPG": "oversetting"
+    },
+    {
+        "BF": "oversew",
+        "PS": "oversewed",
+        "PP": "oversewn/oversewed",
+        "TPS": "oversews",
+        "PPG": "oversewing"
+    },
+    {
+        "BF": "overshoot",
+        "PS": "overshot",
+        "PP": "overshot",
+        "TPS": "overshoots",
+        "PPG": "overshooting"
+    },
+    {
+        "BF": "oversleep",
+        "PS": "overslept",
+        "PP": "overslept",
+        "TPS": "oversleeps",
+        "PPG": "oversleeping"
+    },
+    {
+        "BF": "oversow",
+        "PS": "oversowed",
+        "PP": "oversown/oversowed",
+        "TPS": "oversows",
+        "PPG": "oversowing"
+    },
+    {
+        "BF": "overspeak",
+        "PS": "overspoke",
+        "PP": "overspoken",
+        "TPS": "overspeaks",
+        "PPG": "overspeaking"
+    },
+    {
+        "BF": "overspend",
+        "PS": "overspent",
+        "PP": "overspent",
+        "TPS": "overspends",
+        "PPG": "overspending"
+    },
+    {
+        "BF": "overspill",
+        "PS": "overspilt/overspilled",
+        "PP": "overspilt/overspilled",
+        "TPS": "overspills",
+        "PPG": "overspilling"
+    },
+    {
+        "BF": "overspin",
+        "PS": "overspun",
+        "PP": "overspun",
+        "TPS": "overspins",
+        "PPG": "overspinning"
+    },
+    {
+        "BF": "overspread",
+        "PS": "overspread",
+        "PP": "overspread",
+        "TPS": "overspreads",
+        "PPG": "overspreading"
+    },
+    {
+        "BF": "overspring",
+        "PS": "oversprang",
+        "PP": "oversprung",
+        "TPS": "oversprings",
+        "PPG": "overspringing"
+    },
+    {
+        "BF": "overstand",
+        "PS": "overstood",
+        "PP": "overstood",
+        "TPS": "overstands",
+        "PPG": "overstanding"
+    },
+    {
+        "BF": "overstrew",
+        "PS": "overstrewed",
+        "PP": "overstrewed/overstrewn",
+        "TPS": "overstrews",
+        "PPG": "overstrewing"
+    },
+    {
+        "BF": "overstride",
+        "PS": "overstrode",
+        "PP": "overstridden",
+        "TPS": "overstrides",
+        "PPG": "overstriding"
+    },
+    {
+        "BF": "overstrike",
+        "PS": "overstruck",
+        "PP": "overstruck",
+        "TPS": "overstrikes",
+        "PPG": "overstriking"
+    },
+    {
+        "BF": "overstring",
+        "PS": "overstrung",
+        "PP": "overstrung",
+        "TPS": "overstrings",
+        "PPG": "overstringing"
+    },
+    {
+        "BF": "overtake",
+        "PS": "overtook",
+        "PP": "overtaken",
+        "TPS": "overtakes",
+        "PPG": "overtaking"
+    },
+    {
+        "BF": "overthink",
+        "PS": "overthought",
+        "PP": "overthought",
+        "TPS": "overthinks",
+        "PPG": "overthinking"
+    },
+    {
+        "BF": "overthrow",
+        "PS": "overthrew",
+        "PP": "overthrown",
+        "TPS": "overthrows",
+        "PPG": "overthrowing"
+    },
+    {
+        "BF": "overwear",
+        "PS": "overwore",
+        "PP": "overworn",
+        "TPS": "overwears",
+        "PPG": "overwearing"
+    },
+    {
+        "BF": "overwind",
+        "PS": "overwound",
+        "PP": "overwound",
+        "TPS": "overwinds",
+        "PPG": "overwinding"
+    },
+    {
+        "BF": "overwithhold",
+        "PS": "overwithheld",
+        "PP": "overwithheld",
+        "TPS": "overwithholds",
+        "PPG": "overwithholding"
+    },
+    {
+        "BF": "overwrite",
+        "PS": "overwrote",
+        "PP": "overwritten",
+        "TPS": "overwrites",
+        "PPG": "overwriting"
+    },
+    {
+        "BF": "partake",
+        "PS": "partook",
+        "PP": "partaken",
+        "TPS": "partakes",
+        "PPG": "partaking"
+    },
+    {
+        "BF": "pay",
+        "PS": "paid",
+        "PP": "paid",
+        "TPS": "pays",
+        "PPG": "paying"
+    },
+    {
+        "BF": "pen",
+        "PS": "pent/penned",
+        "PP": "pent/penned",
+        "TPS": "pens",
+        "PPG": "penning"
+    },
+    {
+        "BF": "pinch-hit",
+        "PS": "pinch-hit",
+        "PP": "pinch-hit",
+        "TPS": "pinch-hits",
+        "PPG": "pinch-hitting"
+    },
+    {
+        "BF": "plead",
+        "PS": "pled/pleaded",
+        "PP": "pled/pleaded",
+        "TPS": "pleads",
+        "PPG": "pleading"
+    },
+    {
+        "BF": "potshot",
+        "PS": "potshot/potshotted",
+        "PP": "potshot",
+        "TPS": "potshots",
+        "PPG": "potshotting"
+    },
+    {
+        "BF": "practice-teach",
+        "PS": "practice-taught",
+        "PP": "practice-taught",
+        "TPS": "practice-teaches",
+        "PPG": "practice-teaching"
+    },
+    {
+        "BF": "prebind",
+        "PS": "prebound",
+        "PP": "prebound",
+        "TPS": "prebinds",
+        "PPG": "prebinding"
+    },
+    {
+        "BF": "prebuild",
+        "PS": "prebuilt",
+        "PP": "prebuilt",
+        "TPS": "prebuilds",
+        "PPG": "prebuilding"
+    },
+    {
+        "BF": "precut",
+        "PS": "precut",
+        "PP": "precut",
+        "TPS": "precuts",
+        "PPG": "precutting"
+    },
+    {
+        "BF": "predo",
+        "PS": "predid",
+        "PP": "predone",
+        "TPS": "predoes",
+        "PPG": "predoing"
+    },
+    {
+        "BF": "premake",
+        "PS": "premade",
+        "PP": "premade",
+        "TPS": "premakes",
+        "PPG": "premaking"
+    },
+    {
+        "BF": "prepay",
+        "PS": "prepaid",
+        "PP": "prepaid",
+        "TPS": "prepays",
+        "PPG": "prepaying"
+    },
+    {
+        "BF": "presell",
+        "PS": "presold",
+        "PP": "presold",
+        "TPS": "presells",
+        "PPG": "preselling"
+    },
+    {
+        "BF": "preset",
+        "PS": "preset",
+        "PP": "preset",
+        "TPS": "prests",
+        "PPG": "presetting"
+    },
+    {
+        "BF": "preshrink",
+        "PS": "preshrank",
+        "PP": "preshrunk",
+        "TPS": "preshrinks",
+        "PPG": "preshrinking"
+    },
+    {
+        "BF": "presplit",
+        "PS": "presplit",
+        "PP": "presplit",
+        "TPS": "presplits",
+        "PPG": "presplitting"
+    },
+    {
+        "BF": "price-cut",
+        "PS": "price-cut",
+        "PP": "price-cut",
+        "TPS": "price-cuts",
+        "PPG": "price-cutting"
+    },
+    {
+        "BF": "proofread",
+        "PS": "proofread",
+        "PP": "proofread",
+        "TPS": "proofreads",
+        "PPG": "proofreading"
+    },
+    {
+        "BF": "prove",
+        "PS": "proved",
+        "PP": "proven/proved",
+        "TPS": "proves",
+        "PPG": "proving"
+    },
+    {
+        "BF": "put",
+        "PS": "put",
+        "PP": "put",
+        "TPS": "puts",
+        "PPG": "putting"
+    },
+    {
+        "BF": "quick-freeze",
+        "PS": "quick-froze",
+        "PP": "quick-frozen",
+        "TPS": "quick-freezes",
+        "PPG": "quick-freezing"
+    },
+    {
+        "BF": "quit",
+        "PS": "quit",
+        "PP": "quit",
+        "TPS": "quits",
+        "PPG": "quitting"
+    },
+    {
+        "BF": "rap",
+        "PS": "rapped/rapt",
+        "PP": "rapped/rapt",
+        "TPS": "raps",
+        "PPG": "rapping"
+    },
+    {
+        "BF": "re-prove",
+        "PS": "re-proved",
+        "PP": "re-proven/re-proved",
+        "TPS": "re-proves",
+        "PPG": "re-proving"
+    },
+    {
+        "BF": "read",
+        "PS": "read",
+        "PP": "read",
+        "TPS": "reads",
+        "PPG": "reading"
+    },
+    {
+        "BF": "reave",
+        "PS": "reft/reaved",
+        "PP": "reft/reaved",
+        "TPS": "reaves",
+        "PPG": "reaving"
+    },
+    {
+        "BF": "reawake",
+        "PS": "reawoke",
+        "PP": "reawoken/reawaken",
+        "TPS": "reawakes",
+        "PPG": "reawaking"
+    },
+    {
+        "BF": "rebid",
+        "PS": "rebid",
+        "PP": "rebid",
+        "TPS": "rebids",
+        "PPG": "rebidding"
+    },
+    {
+        "BF": "rebind",
+        "PS": "rebound",
+        "PP": "rebound",
+        "TPS": "rebinds",
+        "PPG": "rebinding"
+    },
+    {
+        "BF": "rebroadcast",
+        "PS": "rebroadcast",
+        "PP": "rebroadcast",
+        "TPS": "rebroadcasts",
+        "PPG": "rebroadcasting"
+    },
+    {
+        "BF": "rebuild",
+        "PS": "rebuilt",
+        "PP": "rebuilt",
+        "TPS": "rebuilds",
+        "PPG": "rebuilding"
+    },
+    {
+        "BF": "recast",
+        "PS": "recast",
+        "PP": "recast",
+        "TPS": "recasts",
+        "PPG": "recasting"
+    },
+    {
+        "BF": "recut",
+        "PS": "recut",
+        "PP": "recut",
+        "TPS": "recuts",
+        "PPG": "recutting"
+    },
+    {
+        "BF": "redd",
+        "PS": "redd/redded",
+        "PP": "redd/redded",
+        "TPS": "redds",
+        "PPG": "redding"
+    },
+    {
+        "BF": "redeal",
+        "PS": "redealt",
+        "PP": "redealt",
+        "TPS": "redeals",
+        "PPG": "redealing"
+    },
+    {
+        "BF": "redo",
+        "PS": "redid",
+        "PP": "redone",
+        "TPS": "redoes",
+        "PPG": "redoing"
+    },
+    {
+        "BF": "redraw",
+        "PS": "redrew",
+        "PP": "redrawn",
+        "TPS": "redraws",
+        "PPG": "redrawing"
+    },
+    {
+        "BF": "reeve",
+        "PS": "rove/reeved",
+        "PP": "rove/reeved",
+        "TPS": "reeves",
+        "PPG": "reeving"
+    },
+    {
+        "BF": "refit",
+        "PS": "refit",
+        "PP": "refit",
+        "TPS": "refits",
+        "PPG": "refitting"
+    },
+    {
+        "BF": "regrind",
+        "PS": "reground",
+        "PP": "reground",
+        "TPS": "regrinds",
+        "PPG": "regrinding"
+    },
+    {
+        "BF": "regrow",
+        "PS": "regrew",
+        "PP": "regrown",
+        "TPS": "regrows",
+        "PPG": "regrowing"
+    },
+    {
+        "BF": "rehang",
+        "PS": "rehung",
+        "PP": "rehung",
+        "TPS": "rehangs",
+        "PPG": "rehanging"
+    },
+    {
+        "BF": "rehear",
+        "PS": "reheard",
+        "PP": "reheard",
+        "TPS": "rehears",
+        "PPG": "rehearing"
+    },
+    {
+        "BF": "reknit",
+        "PS": "reknit/reknitted",
+        "PP": "reknit/reknitted",
+        "TPS": "reknits",
+        "PPG": "reknitting"
+    },
+    {
+        "BF": "relay",
+        "PS": "relaid",
+        "PP": "relaid",
+        "TPS": "relays",
+        "PPG": "relaying"
+    },
+    {
+        "BF": "relearn",
+        "PS": "relearnt/relearned",
+        "PP": "relearnt/relearned",
+        "TPS": "relearn",
+        "PPG": "relearn"
+    },
+    {
+        "BF": "relight",
+        "PS": "relit/relighted",
+        "PP": "relit/relighted",
+        "TPS": "relights",
+        "PPG": "relighting"
+    },
+    {
+        "BF": "remake",
+        "PS": "remade",
+        "PP": "remade",
+        "TPS": "remakes",
+        "PPG": "remaking"
+    },
+    {
+        "BF": "rend",
+        "PS": "rent",
+        "PP": "rent",
+        "TPS": "rends",
+        "PPG": "rending"
+    },
+    {
+        "BF": "repay",
+        "PS": "repaid",
+        "PP": "repaid",
+        "TPS": "repays",
+        "PPG": "repaying"
+    },
+    {
+        "BF": "reread",
+        "PS": "reread",
+        "PP": "reread",
+        "TPS": "rereads",
+        "PPG": "rereading"
+    },
+    {
+        "BF": "rerun",
+        "PS": "reran",
+        "PP": "rerun",
+        "TPS": "reruns",
+        "PPG": "rerunning"
+    },
+    {
+        "BF": "resell",
+        "PS": "resold",
+        "PP": "resold",
+        "TPS": "resells",
+        "PPG": "reselling"
+    },
+    {
+        "BF": "resend",
+        "PS": "resent",
+        "PP": "resent",
+        "TPS": "resends",
+        "PPG": "resending"
+    },
+    {
+        "BF": "reset",
+        "PS": "reset",
+        "PP": "reset",
+        "TPS": "resets",
+        "PPG": "resetting"
+    },
+    {
+        "BF": "resew",
+        "PS": "resewed",
+        "PP": "resewn/reswed",
+        "TPS": "resews",
+        "PPG": "resewing"
+    },
+    {
+        "BF": "reshoot",
+        "PS": "reshot",
+        "PP": "reshot",
+        "TPS": "reshoots",
+        "PPG": "reshooting"
+    },
+    {
+        "BF": "resit",
+        "PS": "resat",
+        "PP": "resat",
+        "TPS": "resits",
+        "PPG": "resitting"
+    },
+    {
+        "BF": "resow",
+        "PS": "resowed",
+        "PP": "resown/resowed",
+        "TPS": "resows",
+        "PPG": "resowing"
+    },
+    {
+        "BF": "respell",
+        "PS": "respelled/respelt",
+        "PP": "respelled/respelt",
+        "TPS": "respells",
+        "PPG": "respelling"
+    },
+    {
+        "BF": "restring",
+        "PS": "restrung",
+        "PP": "restrung",
+        "TPS": "restrings",
+        "PPG": "restringing"
+    },
+    {
+        "BF": "retake",
+        "PS": "retook",
+        "PP": "retaken",
+        "TPS": "retakes",
+        "PPG": "retaking"
+    },
+    {
+        "BF": "reteach",
+        "PS": "retaught",
+        "PP": "retaught",
+        "TPS": "reteaches",
+        "PPG": "reteaching"
+    },
+    {
+        "BF": "retear",
+        "PS": "retore",
+        "PP": "retorn",
+        "TPS": "retears",
+        "PPG": "retearing"
+    },
+    {
+        "BF": "retell",
+        "PS": "retold",
+        "PP": "retold",
+        "TPS": "retells",
+        "PPG": "retelling"
+    },
+    {
+        "BF": "rethink",
+        "PS": "rethought",
+        "PP": "rethought",
+        "TPS": "rethinks",
+        "PPG": "rethinking"
+    },
+    {
+        "BF": "retread",
+        "PS": "retrod",
+        "PP": "retrodden",
+        "TPS": "retreads",
+        "PPG": "retreading"
+    },
+    {
+        "BF": "retrofit",
+        "PS": "retrofit/retrofitted",
+        "PP": "retrofit/retrofitted",
+        "TPS": "retrofits",
+        "PPG": "retrofitting"
+    },
+    {
+        "BF": "rewake",
+        "PS": "rewoke/rewaked",
+        "PP": "rewoken/rewaked",
+        "TPS": "rewakes",
+        "PPG": "rewaking"
+    },
+    {
+        "BF": "rewear",
+        "PS": "rewore",
+        "PP": "reworn",
+        "TPS": "rewears",
+        "PPG": "rewearing"
+    },
+    {
+        "BF": "reweave",
+        "PS": "rewove/reweaved",
+        "PP": "rewoven/reweaved",
+        "TPS": "reweaves",
+        "PPG": "reweaving"
+    },
+    {
+        "BF": "rewed",
+        "PS": "rewed/rewedded",
+        "PP": "rewed/rewedded",
+        "TPS": "reweds",
+        "PPG": "rewedding"
+    },
+    {
+        "BF": "rewet",
+        "PS": "rewet/rewetted",
+        "PP": "rewet/rewetted",
+        "TPS": "rewets",
+        "PPG": "rewetting"
+    },
+    {
+        "BF": "rewin",
+        "PS": "rewon",
+        "PP": "rewon",
+        "TPS": "rewins",
+        "PPG": "rewinning"
+    },
+    {
+        "BF": "rewind",
+        "PS": "rewound",
+        "PP": "rewound",
+        "TPS": "rewinds",
+        "PPG": "rewinding"
+    },
+    {
+        "BF": "rewrite",
+        "PS": "rewrote",
+        "PP": "rewritten",
+        "TPS": "rewrites",
+        "PPG": "rewriting"
+    },
+    {
+        "BF": "rid",
+        "PS": "rid/ridded",
+        "PP": "rid/ridded",
+        "TPS": "rids",
+        "PPG": "ridding"
+    },
+    {
+        "BF": "ride",
+        "PS": "rode",
+        "PP": "ridden",
+        "TPS": "rides",
+        "PPG": "riding"
+    },
+    {
+        "BF": "ring",
+        "PS": "rang",
+        "PP": "rung",
+        "TPS": "rings",
+        "PPG": "ringing"
+    },
+    {
+        "BF": "rise",
+        "PS": "rose",
+        "PP": "risen",
+        "TPS": "rises",
+        "PPG": "rising"
+    },
+    {
+        "BF": "rive",
+        "PS": "rived",
+        "PP": "riven/rived",
+        "TPS": "rives",
+        "PPG": "riving"
+    },
+    {
+        "BF": "rough-hew",
+        "PS": "rough-hewed",
+        "PP": "rough-hewn",
+        "TPS": "rough-hews",
+        "PPG": "rough-hewing"
+    },
+    {
+        "BF": "roughcast",
+        "PS": "roughcast",
+        "PP": "roughcast",
+        "TPS": "roughcasts",
+        "PPG": "roughcasting"
+    },
+    {
+        "BF": "run",
+        "PS": "ran",
+        "PP": "run",
+        "TPS": "runs",
+        "PPG": "running"
+    },
+    {
+        "BF": "sand-cast",
+        "PS": "sand-cast",
+        "PP": "sand-cast",
+        "TPS": "sand-casts",
+        "PPG": "sand-casting"
+    },
+    {
+        "BF": "saw",
+        "PS": "sawed",
+        "PP": "sawn/sawed",
+        "TPS": "saws",
+        "PPG": "sawing"
+    },
+    {
+        "BF": "say",
+        "PS": "said",
+        "PP": "said",
+        "TPS": "says",
+        "PPG": "saying"
+    },
+    {
+        "BF": "see",
+        "PS": "saw",
+        "PP": "seen",
+        "TPS": "sees",
+        "PPG": "seeing"
+    },
+    {
+        "BF": "seek",
+        "PS": "sought",
+        "PP": "sought",
+        "TPS": "seeks",
+        "PPG": "seeking"
+    },
+    {
+        "BF": "self-feed",
+        "PS": "self-fed",
+        "PP": "self-fed",
+        "TPS": "self-feeds",
+        "PPG": "self-feeding"
+    },
+    {
+        "BF": "self-sow",
+        "PS": "self-sowed",
+        "PP": "self-sown/self-sowed",
+        "TPS": "self-sows",
+        "PPG": "self-sowing"
+    },
+    {
+        "BF": "sell",
+        "PS": "sold",
+        "PP": "sold",
+        "TPS": "sells",
+        "PPG": "selling"
+    },
+    {
+        "BF": "send",
+        "PS": "sent",
+        "PP": "sent",
+        "TPS": "sends",
+        "PPG": "sending"
+    },
+    {
+        "BF": "set",
+        "PS": "set",
+        "PP": "set",
+        "TPS": "sets",
+        "PPG": "setting"
+    },
+    {
+        "BF": "sew",
+        "PS": "sewed",
+        "PP": "sewn/sewed",
+        "TPS": "sews",
+        "PPG": "sewing"
+    },
+    {
+        "BF": "shake",
+        "PS": "shook",
+        "PP": "shaken",
+        "TPS": "shakes",
+        "PPG": "shaking"
+    },
+    {
+        "BF": "shave",
+        "PS": "shaved",
+        "PP": "shaven/shaved",
+        "TPS": "shaves",
+        "PPG": "shaving"
+    },
+    {
+        "BF": "shear",
+        "PS": "shore/sheared",
+        "PP": "shorn/sheared",
+        "TPS": "shears",
+        "PPG": "shearing"
+    },
+    {
+        "BF": "shed",
+        "PS": "shed",
+        "PP": "shed",
+        "TPS": "sheds",
+        "PPG": "shedding"
+    },
+    {
+        "BF": "shend",
+        "PS": "shent",
+        "PP": "shent",
+        "TPS": "shends",
+        "PPG": "shending"
+    },
+    {
+        "BF": "shew",
+        "PS": "shewed",
+        "PP": "shewn/shewed",
+        "TPS": "shews",
+        "PPG": "shewing"
+    },
+    {
+        "BF": "shine",
+        "PS": "shone",
+        "PP": "shone",
+        "TPS": "shines",
+        "PPG": "shining"
+    },
+    {
+        "BF": "shit",
+        "PS": "shat/shit",
+        "PP": "shat/shit",
+        "TPS": "shits",
+        "PPG": "shitting"
+    },
+    {
+        "BF": "shoe",
+        "PS": "shod",
+        "PP": "shod",
+        "TPS": "shoes",
+        "PPG": "shoeing"
+    },
+    {
+        "BF": "shoot",
+        "PS": "shot",
+        "PP": "shot",
+        "TPS": "shoots",
+        "PPG": "shooting"
+    },
+    {
+        "BF": "shortcut",
+        "PS": "shortcut",
+        "PP": "shortcut",
+        "TPS": "shortcuts",
+        "PPG": "shortcutting"
+    },
+    {
+        "BF": "show",
+        "PS": "showed",
+        "PP": "shown",
+        "TPS": "shows",
+        "PPG": "showing"
+    },
+    {
+        "BF": "shrink",
+        "PS": "shrank",
+        "PP": "shrunk",
+        "TPS": "shrinks",
+        "PPG": "shrinking"
+    },
+    {
+        "BF": "shrive",
+        "PS": "shrove",
+        "PP": "shriven",
+        "TPS": "shrives",
+        "PPG": "shriving"
+    },
+    {
+        "BF": "shut",
+        "PS": "shut",
+        "PP": "shut",
+        "TPS": "shuts",
+        "PPG": "shutting"
+    },
+    {
+        "BF": "sidewind",
+        "PS": "sidewound",
+        "PP": "sidewound",
+        "TPS": "sidewinds",
+        "PPG": "sidewinding"
+    },
+    {
+        "BF": "sight-read",
+        "PS": "sight-read",
+        "PP": "sight-read",
+        "TPS": "sight-reads",
+        "PPG": "sight-reading"
+    },
+    {
+        "BF": "sightsee",
+        "PS": "sightsaw",
+        "PP": "sightseen",
+        "TPS": "sightsees",
+        "PPG": "sightseeing"
+    },
+    {
+        "BF": "sing",
+        "PS": "sang",
+        "PP": "sung",
+        "TPS": "sings",
+        "PPG": "singing"
+    },
+    {
+        "BF": "sink",
+        "PS": "sank",
+        "PP": "sunk",
+        "TPS": "sinks",
+        "PPG": "sinking"
+    },
+    {
+        "BF": "sit",
+        "PS": "sat",
+        "PP": "sat",
+        "TPS": "sits",
+        "PPG": "sitting"
+    },
+    {
+        "BF": "skywrite",
+        "PS": "skywrote",
+        "PP": "skywritten",
+        "TPS": "skywrites",
+        "PPG": "skywriting"
+    },
+    {
+        "BF": "slay",
+        "PS": "slew",
+        "PP": "slain",
+        "TPS": "slays",
+        "PPG": "slaying"
+    },
+    {
+        "BF": "sleep",
+        "PS": "slept",
+        "PP": "slept",
+        "TPS": "sleeps",
+        "PPG": "sleeping"
+    },
+    {
+        "BF": "slide",
+        "PS": "slid",
+        "PP": "slid/slidden",
+        "TPS": "slides",
+        "PPG": "sliding"
+    },
+    {
+        "BF": "sling",
+        "PS": "slung",
+        "PP": "slung",
+        "TPS": "slings",
+        "PPG": "slinging"
+    },
+    {
+        "BF": "slink",
+        "PS": "slunk",
+        "PP": "slunk",
+        "TPS": "slinks",
+        "PPG": "slinking"
+    },
+    {
+        "BF": "slit",
+        "PS": "slit",
+        "PP": "slit",
+        "TPS": "slits",
+        "PPG": "slitting"
+    },
+    {
+        "BF": "smell",
+        "PS": "smelt/smelled",
+        "PP": "smelt/smelled",
+        "TPS": "smells",
+        "PPG": "smelling"
+    },
+    {
+        "BF": "smite",
+        "PS": "smote",
+        "PP": "smitten",
+        "TPS": "smites",
+        "PPG": "smiting"
+    },
+    {
+        "BF": "snapshoot",
+        "PS": "snapshot",
+        "PP": "snapshot",
+        "TPS": "snapshoots",
+        "PPG": "snapshooting"
+    },
+    {
+        "BF": "sneak",
+        "PS": "sneaked/snuck",
+        "PP": "sneaked/snuck",
+        "TPS": "sneaks",
+        "PPG": "sneaking"
+    },
+    {
+        "BF": "soothsay",
+        "PS": "soothsaid",
+        "PP": "soothsaid",
+        "TPS": "soothsays",
+        "PPG": "soothsaying"
+    },
+    {
+        "BF": "sow",
+        "PS": "sowed",
+        "PP": "sown",
+        "TPS": "sows",
+        "PPG": "sowing"
+    },
+    {
+        "BF": "speak",
+        "PS": "spoke",
+        "PP": "spoken",
+        "TPS": "speaks",
+        "PPG": "speaking"
+    },
+    {
+        "BF": "speed",
+        "PS": "sped/speeded",
+        "PP": "sped/speeded",
+        "TPS": "speeds",
+        "PPG": "speeding"
+    },
+    {
+        "BF": "spell",
+        "PS": "spelt/spelled",
+        "PP": "spelt/spelled",
+        "TPS": "spells",
+        "PPG": "spelling"
+    },
+    {
+        "BF": "spellbind",
+        "PS": "spellbound",
+        "PP": "spellbound",
+        "TPS": "spellbinds",
+        "PPG": "spellbinding"
+    },
+    {
+        "BF": "spend",
+        "PS": "spent",
+        "PP": "spent",
+        "TPS": "spends",
+        "PPG": "spending"
+    },
+    {
+        "BF": "spill",
+        "PS": "spilt/spilled",
+        "PP": "spilt/spilled",
+        "TPS": "spills",
+        "PPG": "spilling"
+    },
+    {
+        "BF": "spin",
+        "PS": "span/spun",
+        "PP": "spun",
+        "TPS": "spins",
+        "PPG": "spinning"
+    },
+    {
+        "BF": "spit",
+        "PS": "spat/spit",
+        "PP": "spat/spit",
+        "TPS": "spits",
+        "PPG": "spitting"
+    },
+    {
+        "BF": "split",
+        "PS": "split",
+        "PP": "split",
+        "TPS": "splits",
+        "PPG": "splitting"
+    },
+    {
+        "BF": "spoil",
+        "PS": "spoilt/spoiled",
+        "PP": "spoilt/spoiled",
+        "TPS": "spoils",
+        "PPG": "spoiling"
+    },
+    {
+        "BF": "spoonfeed",
+        "PS": "spoonfed",
+        "PP": "spoonfed",
+        "TPS": "spoonfeeds",
+        "PPG": "spoonfeeding"
+    },
+    {
+        "BF": "spread",
+        "PS": "spread",
+        "PP": "spread",
+        "TPS": "spreads",
+        "PPG": "spreading"
+    },
+    {
+        "BF": "spring",
+        "PS": "sprang",
+        "PP": "sprung",
+        "TPS": "springs",
+        "PPG": "springing"
+    },
+    {
+        "BF": "stall-feed",
+        "PS": "stall-fed",
+        "PP": "stall-fed",
+        "TPS": "stall-feeds",
+        "PPG": "stall-feeding"
+    },
+    {
+        "BF": "stand",
+        "PS": "stood",
+        "PP": "stood",
+        "TPS": "stands",
+        "PPG": "standing"
+    },
+    {
+        "BF": "stave",
+        "PS": "stove/staved/stoved",
+        "PP": "stove/staved/stoved",
+        "TPS": "staves",
+        "PPG": "staving"
+    },
+    {
+        "BF": "steal",
+        "PS": "stole",
+        "PP": "stolen",
+        "TPS": "steals",
+        "PPG": "stealing"
+    },
+    {
+        "BF": "stick",
+        "PS": "stuck",
+        "PP": "stuck",
+        "TPS": "sticks",
+        "PPG": "sticking"
+    },
+    {
+        "BF": "sting",
+        "PS": "stung",
+        "PP": "stung",
+        "TPS": "stings",
+        "PPG": "stinging"
+    },
+    {
+        "BF": "stink",
+        "PS": "stank",
+        "PP": "stunk",
+        "TPS": "stinks",
+        "PPG": "stinking"
+    },
+    {
+        "BF": "straphang",
+        "PS": "straphung",
+        "PP": "straphung",
+        "TPS": "straphangs",
+        "PPG": "straphanging"
+    },
+    {
+        "BF": "strew",
+        "PS": "strewed",
+        "PP": "strewn/strewed",
+        "TPS": "strews",
+        "PPG": "strewing"
+    },
+    {
+        "BF": "stride",
+        "PS": "strode/strided",
+        "PP": "stridden",
+        "TPS": "strides",
+        "PPG": "striding"
+    },
+    {
+        "BF": "strike",
+        "PS": "struck",
+        "PP": "struck/stricken",
+        "TPS": "strikes",
+        "PPG": "striking"
+    },
+    {
+        "BF": "string",
+        "PS": "strung",
+        "PP": "strung",
+        "TPS": "strings",
+        "PPG": "stringing"
+    },
+    {
+        "BF": "strip",
+        "PS": "stript/stripped",
+        "PP": "stript/stripped",
+        "TPS": "strips",
+        "PPG": "stripping"
+    },
+    {
+        "BF": "strive",
+        "PS": "strove",
+        "PP": "striven",
+        "TPS": "strives",
+        "PPG": "striving"
+    },
+    {
+        "BF": "sublet",
+        "PS": "sublet",
+        "PP": "sublet",
+        "TPS": "sublets",
+        "PPG": "subletting"
+    },
+    {
+        "BF": "sunburn",
+        "PS": "sunburned/sunburnt",
+        "PP": "sunburned/sunburnt",
+        "TPS": "sunburns",
+        "PPG": "sunburning"
+    },
+    {
+        "BF": "swear",
+        "PS": "swore",
+        "PP": "sworn",
+        "TPS": "swears",
+        "PPG": "swearing"
+    },
+    {
+        "BF": "sweat",
+        "PS": "sweat/sweated",
+        "PP": "sweat/sweated",
+        "TPS": "sweats",
+        "PPG": "sweating"
+    },
+    {
+        "BF": "sweep",
+        "PS": "swept/sweeped",
+        "PP": "swept/sweeped",
+        "TPS": "sweeps",
+        "PPG": "sweeping"
+    },
+    {
+        "BF": "swell",
+        "PS": "swelled",
+        "PP": "swollen",
+        "TPS": "swells",
+        "PPG": "swelling"
+    },
+    {
+        "BF": "swim",
+        "PS": "swam",
+        "PP": "swum",
+        "TPS": "swims",
+        "PPG": "swimming"
+    },
+    {
+        "BF": "swing",
+        "PS": "swung",
+        "PP": "swung",
+        "TPS": "swings",
+        "PPG": "swinging"
+    },
+    {
+        "BF": "swink",
+        "PS": "swank/swonk",
+        "PP": "swonken",
+        "TPS": "swinks",
+        "PPG": "swinking"
+    },
+    {
+        "BF": "switch-hit",
+        "PS": "switch-hit",
+        "PP": "switch-hit",
+        "TPS": "switch-hits",
+        "PPG": "switch-hitting"
+    },
+    {
+        "BF": "take",
+        "PS": "took",
+        "PP": "taken",
+        "TPS": "takes",
+        "PPG": "taking"
+    },
+    {
+        "BF": "teach",
+        "PS": "taught",
+        "PP": "taught",
+        "TPS": "teaches",
+        "PPG": "teaching"
+    },
+    {
+        "BF": "team-teach",
+        "PS": "team-taught",
+        "PP": "team-taught",
+        "TPS": "team-teaches",
+        "PPG": "team-teaching"
+    },
+    {
+        "BF": "tear",
+        "PS": "tore",
+        "PP": "torn",
+        "TPS": "tears",
+        "PPG": "tearing"
+    },
+    {
+        "BF": "telecast",
+        "PS": "telecast/telecasted",
+        "PP": "telecast/telecasted",
+        "TPS": "telecasts",
+        "PPG": "telecasting"
+    },
+    {
+        "BF": "tell",
+        "PS": "told",
+        "PP": "told",
+        "TPS": "tells",
+        "PPG": "telling"
+    },
+    {
+        "BF": "test-drive",
+        "PS": "test-drove",
+        "PP": "test-driven",
+        "TPS": "test-drives",
+        "PPG": "test-driving"
+    },
+    {
+        "BF": "test-fly",
+        "PS": "test-flew",
+        "PP": "test-flown",
+        "TPS": "test-flies",
+        "PPG": "test-flying"
+    },
+    {
+        "BF": "think",
+        "PS": "thought",
+        "PP": "thought",
+        "TPS": "thinks",
+        "PPG": "thinking"
+    },
+    {
+        "BF": "thrive",
+        "PS": "throve/thrived",
+        "PP": "thriven/thrived",
+        "TPS": "thrives",
+        "PPG": "thriving"
+    },
+    {
+        "BF": "throw",
+        "PS": "threw",
+        "PP": "thrown",
+        "TPS": "throws",
+        "PPG": "throwing"
+    },
+    {
+        "BF": "thrust",
+        "PS": "thrust",
+        "PP": "thrust",
+        "TPS": "thrusts",
+        "PPG": "thrusting"
+    },
+    {
+        "BF": "thunderstrike",
+        "PS": "thunderstruck",
+        "PP": "thunderstruck/thunderstricken",
+        "TPS": "thunderstrikes",
+        "PPG": "thunderstriking"
+    },
+    {
+        "BF": "tine",
+        "PS": "tint/tined",
+        "PP": "tint/tined",
+        "TPS": "tines",
+        "PPG": "tining"
+    },
+    {
+        "BF": "tread",
+        "PS": "trod",
+        "PP": "trodden",
+        "TPS": "treads",
+        "PPG": "treading"
+    },
+    {
+        "BF": "troubleshoot",
+        "PS": "troubleshot",
+        "PP": "troubleshot",
+        "TPS": "troubleshoots",
+        "PPG": "troubleshooting"
+    },
+    {
+        "BF": "typecast",
+        "PS": "typecast",
+        "PP": "typecast",
+        "TPS": "typecasts",
+        "PPG": "typecasting"
+    },
+    {
+        "BF": "typeset",
+        "PS": "typeset",
+        "PP": "typeset",
+        "TPS": "typesets",
+        "PPG": "typesetting"
+    },
+    {
+        "BF": "typewrite",
+        "PS": "typewrote",
+        "PP": "typewritten",
+        "TPS": "typewrites",
+        "PPG": "typewriting"
+    },
+    {
+        "BF": "unbear",
+        "PS": "unbore",
+        "PP": "unborn/unborne",
+        "TPS": "unbears",
+        "PPG": "unbearing"
+    },
+    {
+        "BF": "unbend",
+        "PS": "unbent",
+        "PP": "unbent",
+        "TPS": "unbends",
+        "PPG": "unbending"
+    },
+    {
+        "BF": "unbind",
+        "PS": "unbound",
+        "PP": "unbound",
+        "TPS": "unbinds",
+        "PPG": "unbinding"
+    },
+    {
+        "BF": "unbuild",
+        "PS": "unbuilt",
+        "PP": "unbuilt",
+        "TPS": "unbuilds",
+        "PPG": "unbuilding"
+    },
+    {
+        "BF": "unclothe",
+        "PS": "unclad/unclothed",
+        "PP": "unclad/unclothed",
+        "TPS": "unclothes",
+        "PPG": "unclothing"
+    },
+    {
+        "BF": "underbid",
+        "PS": "underbid",
+        "PP": "underbid/underbidden",
+        "TPS": "underbids",
+        "PPG": "underbidding"
+    },
+    {
+        "BF": "underbuy",
+        "PS": "underbought",
+        "PP": "underbought",
+        "TPS": "underbuys",
+        "PPG": "underbuying"
+    },
+    {
+        "BF": "undercut",
+        "PS": "undercut",
+        "PP": "undercut",
+        "TPS": "undercuts",
+        "PPG": "undercutting"
+    },
+    {
+        "BF": "underdo",
+        "PS": "underdid",
+        "PP": "underdone",
+        "TPS": "underdoes",
+        "PPG": "underdoing"
+    },
+    {
+        "BF": "underfeed",
+        "PS": "underfed",
+        "PP": "underfed",
+        "TPS": "underfeeds",
+        "PPG": "underfeeding"
+    },
+    {
+        "BF": "undergird",
+        "PS": "undergirt/undergirded",
+        "PP": "undergirt/undergirded",
+        "TPS": "undergirds",
+        "PPG": "undergirding"
+    },
+    {
+        "BF": "undergo",
+        "PS": "underwent",
+        "PP": "undergone",
+        "TPS": "undergoes",
+        "PPG": "undergoing"
+    },
+    {
+        "BF": "underlay",
+        "PS": "underlaid",
+        "PP": "underlaid",
+        "TPS": "underlays",
+        "PPG": "underlaying"
+    },
+    {
+        "BF": "underlet",
+        "PS": "underlet",
+        "PP": "underlet",
+        "TPS": "underlets",
+        "PPG": "underletting"
+    },
+    {
+        "BF": "underlie",
+        "PS": "underlay",
+        "PP": "underlain",
+        "TPS": "underlies",
+        "PPG": "underlying"
+    },
+    {
+        "BF": "underpay",
+        "PS": "underpaid",
+        "PP": "underpaid",
+        "TPS": "underpays",
+        "PPG": "underpaying"
+    },
+    {
+        "BF": "underrun",
+        "PS": "underran",
+        "PP": "underrun",
+        "TPS": "underruns",
+        "PPG": "underrunning"
+    },
+    {
+        "BF": "undersell",
+        "PS": "undersold",
+        "PP": "undersold",
+        "TPS": "undersells",
+        "PPG": "underselling"
+    },
+    {
+        "BF": "undershoot",
+        "PS": "undershot",
+        "PP": "undershot",
+        "TPS": "undershoots",
+        "PPG": "undershooting"
+    },
+    {
+        "BF": "underspend",
+        "PS": "underspent",
+        "PP": "underspent",
+        "TPS": "underspends",
+        "PPG": "underspending"
+    },
+    {
+        "BF": "understand",
+        "PS": "understood",
+        "PP": "understood",
+        "TPS": "understands",
+        "PPG": "understanding"
+    },
+    {
+        "BF": "undertake",
+        "PS": "undertook",
+        "PP": "undertaken",
+        "TPS": "undertakes",
+        "PPG": "undertaking"
+    },
+    {
+        "BF": "underthrust",
+        "PS": "underthrust",
+        "PP": "underthrust",
+        "TPS": "underthrusts",
+        "PPG": "underthrusting"
+    },
+    {
+        "BF": "underwrite",
+        "PS": "underwrote",
+        "PP": "underwritten",
+        "TPS": "underwrites",
+        "PPG": "underwriting"
+    },
+    {
+        "BF": "undo",
+        "PS": "undid",
+        "PP": "undone",
+        "TPS": "undoes",
+        "PPG": "undoing"
+    },
+    {
+        "BF": "undraw",
+        "PS": "undrew",
+        "PP": "undrawn",
+        "TPS": "undraws",
+        "PPG": "undrawing"
+    },
+    {
+        "BF": "undraw",
+        "PS": "undrew",
+        "PP": "undrawn",
+        "TPS": "undraws",
+        "PPG": "undrawing"
+    },
+    {
+        "BF": "unfreeze",
+        "PS": "unfroze",
+        "PP": "unfrozen",
+        "TPS": "unfreezes",
+        "PPG": "unfreezing"
+    },
+    {
+        "BF": "unhang",
+        "PS": "unhung",
+        "PP": "unhung",
+        "TPS": "unhangs",
+        "PPG": "unhanging"
+    },
+    {
+        "BF": "unhide",
+        "PS": "unhid",
+        "PP": "unhidden",
+        "TPS": "unhides",
+        "PPG": "unhiding"
+    },
+    {
+        "BF": "unhold",
+        "PS": "unheld",
+        "PP": "unheld",
+        "TPS": "unholds",
+        "PPG": "unholding"
+    },
+    {
+        "BF": "unknit",
+        "PS": "unknit/unknitted",
+        "PP": "unknit/unknitted",
+        "TPS": "unknits",
+        "PPG": "unknitting"
+    },
+    {
+        "BF": "unlade",
+        "PS": "unladed",
+        "PP": "unladen/unladed",
+        "TPS": "unlades",
+        "PPG": "unlading"
+    },
+    {
+        "BF": "unlay",
+        "PS": "unlaid",
+        "PP": "unlaid",
+        "TPS": "unlays",
+        "PPG": "unlaying"
+    },
+    {
+        "BF": "unlearn",
+        "PS": "unlearnt/unlearned",
+        "PP": "unlearnt/unlearned",
+        "TPS": "unlearns",
+        "PPG": "unlearning"
+    },
+    {
+        "BF": "unmake",
+        "PS": "unmade",
+        "PP": "unmade",
+        "TPS": "unmakes",
+        "PPG": "unmaking"
+    },
+    {
+        "BF": "unreeve",
+        "PS": "unrove/unreeved",
+        "PP": "unrove/unreeved",
+        "TPS": "unreeves",
+        "PPG": "unreeving"
+    },
+    {
+        "BF": "unsay",
+        "PS": "unsaid",
+        "PP": "unsaid",
+        "TPS": "unsays",
+        "PPG": "unsaying"
+    },
+    {
+        "BF": "unsell",
+        "PS": "unsold",
+        "PP": "unsold",
+        "TPS": "unsells",
+        "PPG": "unselling"
+    },
+    {
+        "BF": "unsew",
+        "PS": "unsewed",
+        "PP": "unsewn/unsewed",
+        "TPS": "unsews",
+        "PPG": "unsewing"
+    },
+    {
+        "BF": "unsling",
+        "PS": "unslung",
+        "PP": "unslung",
+        "TPS": "unslings",
+        "PPG": "unslinging"
+    },
+    {
+        "BF": "unspeak",
+        "PS": "unspoke",
+        "PP": "unspoken",
+        "TPS": "unspeaks",
+        "PPG": "unspeaking"
+    },
+    {
+        "BF": "unspin",
+        "PS": "unspun",
+        "PP": "unspun",
+        "TPS": "unspins",
+        "PPG": "unspinning"
+    },
+    {
+        "BF": "unstick",
+        "PS": "unstuck",
+        "PP": "unstuck",
+        "TPS": "unsticks",
+        "PPG": "unsticking"
+    },
+    {
+        "BF": "unstring",
+        "PS": "unstrung",
+        "PP": "unstrung",
+        "TPS": "unstrings",
+        "PPG": "unstringing"
+    },
+    {
+        "BF": "unswear",
+        "PS": "unswore",
+        "PP": "unsworn",
+        "TPS": "unswears",
+        "PPG": "unswearing"
+    },
+    {
+        "BF": "unteach",
+        "PS": "untaught",
+        "PP": "untaught",
+        "TPS": "unteaches",
+        "PPG": "unteaching"
+    },
+    {
+        "BF": "unthink",
+        "PS": "unthought",
+        "PP": "unthought",
+        "TPS": "unthinks",
+        "PPG": "unthinking"
+    },
+    {
+        "BF": "untread",
+        "PS": "untrod",
+        "PP": "untrodden",
+        "TPS": "untreads",
+        "PPG": "untreading"
+    },
+    {
+        "BF": "unweave",
+        "PS": "unwove",
+        "PP": "unwoven",
+        "TPS": "unweaves",
+        "PPG": "unweaving"
+    },
+    {
+        "BF": "unwind",
+        "PS": "unwound",
+        "PP": "unwound",
+        "TPS": "unwinds",
+        "PPG": "unwinding"
+    },
+    {
+        "BF": "unwrite",
+        "PS": "unwrote",
+        "PP": "unwritten",
+        "TPS": "unwrites",
+        "PPG": "unwriting"
+    },
+    {
+        "BF": "upbuild",
+        "PS": "upbuilt",
+        "PP": "upbuilt",
+        "TPS": "upbuilds",
+        "PPG": "upbuilding"
+    },
+    {
+        "BF": "uphold",
+        "PS": "upheld",
+        "PP": "upheld",
+        "TPS": "upholds",
+        "PPG": "upholding"
+    },
+    {
+        "BF": "uppercut",
+        "PS": "uppercut",
+        "PP": "uppercut",
+        "TPS": "uppercuts",
+        "PPG": "uppercutting"
+    },
+    {
+        "BF": "uprise",
+        "PS": "uprose",
+        "PP": "uprisen",
+        "TPS": "uprises",
+        "PPG": "uprising"
+    },
+    {
+        "BF": "upset",
+        "PS": "upset",
+        "PP": "upset",
+        "TPS": "upsets",
+        "PPG": "upsetting"
+    },
+    {
+        "BF": "upspring",
+        "PS": "upsprang",
+        "PP": "upsprung",
+        "TPS": "upsprings",
+        "PPG": "upspringing"
+    },
+    {
+        "BF": "upsweep",
+        "PS": "upswept",
+        "PP": "upswept",
+        "TPS": "upsweeps",
+        "PPG": "upsweeping"
+    },
+    {
+        "BF": "uptear",
+        "PS": "uptore",
+        "PP": "uptorn",
+        "TPS": "uptears",
+        "PPG": "uptearing"
+    },
+    {
+        "BF": "vex",
+        "PS": "vext/vexed",
+        "PP": "vext/vexed",
+        "TPS": "vexes",
+        "PPG": "vexing"
+    },
+    {
+        "BF": "wake",
+        "PS": "woke",
+        "PP": "woken",
+        "TPS": "wakes",
+        "PPG": "waking"
+    },
+    {
+        "BF": "waylay",
+        "PS": "waylaid",
+        "PP": "waylaid",
+        "TPS": "waylays",
+        "PPG": "waylaying"
+    },
+    {
+        "BF": "wear",
+        "PS": "wore",
+        "PP": "worn",
+        "TPS": "wears",
+        "PPG": "wearing"
+    },
+    {
+        "BF": "weave",
+        "PS": "wove",
+        "PP": "woven",
+        "TPS": "weaves",
+        "PPG": "weaving"
+    },
+    {
+        "BF": "wed",
+        "PS": "wed/wedded",
+        "PP": "wed/wedded",
+        "TPS": "weds",
+        "PPG": "wedding"
+    },
+    {
+        "BF": "weep",
+        "PS": "wept",
+        "PP": "wept",
+        "TPS": "weeps",
+        "PPG": "weeping"
+    },
+    {
+        "BF": "wend",
+        "PS": "wended/went",
+        "PP": "wended/went",
+        "TPS": "wends",
+        "PPG": "wending"
+    },
+    {
+        "BF": "wet",
+        "PS": "wet/wetted",
+        "PP": "wet/wetted",
+        "TPS": "wets",
+        "PPG": "wetting"
+    },
+    {
+        "BF": "whipsaw",
+        "PS": "whipsawed",
+        "PP": "whipsawn/whipsawed",
+        "TPS": "whipsaws",
+        "PPG": "whipsawing"
+    },
+    {
+        "BF": "win",
+        "PS": "won",
+        "PP": "won",
+        "TPS": "wins",
+        "PPG": "winning"
+    },
+    {
+        "BF": "wind",
+        "PS": "wound",
+        "PP": "wound",
+        "TPS": "winds",
+        "PPG": "winding"
+    },
+    {
+        "BF": "winterfeed",
+        "PS": "winterfed",
+        "PP": "winterfed",
+        "TPS": "winterfeeds",
+        "PPG": "winterfeeding"
+    },
+    {
+        "BF": "wiredraw",
+        "PS": "wiredrew",
+        "PP": "wiredrawn",
+        "TPS": "wiredraws",
+        "PPG": "wiredrawing"
+    },
+    {
+        "BF": "wit",
+        "PS": "wist",
+        "PP": "wist",
+        "TPS": "wot",
+        "PPG": "witting"
+    },
+    {
+        "BF": "withdraw",
+        "PS": "withdrew",
+        "PP": "withdrawn",
+        "TPS": "withdraws",
+        "PPG": "withdrawing"
+    },
+    {
+        "BF": "withhold",
+        "PS": "withheld",
+        "PP": "withheld",
+        "TPS": "withholds",
+        "PPG": "withholding"
+    },
+    {
+        "BF": "withstand",
+        "PS": "withstood",
+        "PP": "withstood",
+        "TPS": "withstands",
+        "PPG": "withstanding"
+    },
+    {
+        "BF": "wont",
+        "PS": "wont",
+        "PP": "wont/wonted",
+        "TPS": "wonts",
+        "PPG": "wonting"
+    },
+    {
+        "BF": "work",
+        "PS": "worked/wrought",
+        "PP": "worked/wrought",
+        "TPS": "works",
+        "PPG": "working"
+    },
+    {
+        "BF": "wrap",
+        "PS": "wrapped/wrapt",
+        "PP": "wrapped/wrapt",
+        "TPS": "wraps",
+        "PPG": "wrapping"
+    },
+    {
+        "BF": "wreak",
+        "PS": "wreaked",
+        "PP": "wreaked/wroken",
+        "TPS": "wreaks",
+        "PPG": "wreaking"
+    },
+    {
+        "BF": "wring",
+        "PS": "wrung",
+        "PP": "wrung",
+        "TPS": "wrings",
+        "PPG": "wringing"
+    },
+    {
+        "BF": "write",
+        "PS": "wrote",
+        "PP": "written",
+        "TPS": "writes",
+        "PPG": "writing"
+    },
+    {
+        "BF": "zinc",
+        "PS": "zinced/zincked",
+        "PP": "zinced/zincked",
+        "TPS": "zincs",
+        "PPG": "zincking"
+    }
+]
