@@ -7,7 +7,6 @@
     "test": "tests"
   },
   "dependencies": {
-    "wordnet": "^0.1.2",
     "tape": "~4.5.1"
   },
   "keywords": [
