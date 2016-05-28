@@ -1,6 +1,6 @@
 {
   "name": "irregular",
-  "version": "0.2.0",
+  "version": "0.1.1",
   "description": "This is a Node.js module that allows you to search for irregular verb tenses.",
   "main": "index.js",
   "directories": {
