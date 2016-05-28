@@ -7,7 +7,7 @@ This is a Node.js module that allows you to search for irregular verb tenses.
 # Usage
 
 ```javascript
-var getIrregularVerb = require('./index.js');
+var getIrregularVerb = require('irregular');
 console.log(getIrregularVerb('find'));
 ```
 
