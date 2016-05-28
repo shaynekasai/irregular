@@ -1,6 +1,6 @@
 {
   "name": "irregular",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -9,10 +9,21 @@
   "dependencies": {
     "wordnet": "^0.1.2"
   },
+  "keywords": [
+      "nlg",
+      "verbs",
+      "natural",
+      "language",
+      "english"
+  ],
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/shaynekasai/irregular"
+  },
+  "author": "Shayne Kasai",
   "license": "MIT"
 }
