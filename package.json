@@ -7,7 +7,8 @@
     "test": "tests"
   },
   "dependencies": {
-    "wordnet": "^0.1.2"
+    "wordnet": "^0.1.2",
+    "tape": "~4.5.1"
   },
   "keywords": [
       "nlg",
@@ -18,7 +19,7 @@
   ],
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tape tests/*.js"
   },
   "repository": {
       "type": "git",
