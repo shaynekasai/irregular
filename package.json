@@ -1,6 +1,6 @@
 {
   "name": "irregular",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "This is a Node.js module that allows you to search for irregular verb tenses.",
   "main": "index.js",
   "directories": {
@@ -10,19 +10,19 @@
     "tape": "~4.5.1"
   },
   "keywords": [
-      "nlg",
-      "verbs",
-      "natural",
-      "language",
-      "english"
+    "nlg",
+    "verbs",
+    "natural",
+    "language",
+    "english"
   ],
   "devDependencies": {},
   "scripts": {
     "test": "tape tests/*.js"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/shaynekasai/irregular"
+    "type": "git",
+    "url": "https://github.com/shaynekasai/irregular"
   },
   "author": "Shayne Kasai",
   "license": "MIT"
